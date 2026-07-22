@@ -1,0 +1,12 @@
+step,operation,implementation,rationale
+01,Preserve raw file,Keep original CSV unchanged,Protect provenance
+02,Normalise identifiers,Trim whitespace and uppercase,Prevent false duplicate and join failures
+03,Resolve versions,Keep highest record_version,Use documented corrected records
+04,Parse dates,Standardise separators and parse ISO dates,Invalid dates become missing
+05,Validate numeric ranges,Age 18-75; study hours 0-112; exam score 0-100,Separate invalid values from legitimate zeros
+06,Standardise categories,Map documented variants,Avoid fragmented categories
+07,Validate questionnaire items,Retain values 1-5,Protect scale scoring
+08,Reverse-score items,item3_reverse=6-item3; item5_reverse=6-item5,Align item direction
+09,Calculate scale score,Mean when at least four items are observed,Apply prespecified missing-item rule
+10,Apply consent rule,Retain consent=Yes,Respect ethical governance
+11,Export audit files,"Write clean data, audit summaries, and issue log",Create a reproducible trail

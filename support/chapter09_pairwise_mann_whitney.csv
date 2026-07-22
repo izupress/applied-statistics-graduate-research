@@ -1,0 +1,4 @@
+group1,group2,u_statistic,p_value_unadjusted,p_value_holm
+Peer mentoring,Standard support,2094.5,0.056695893047045184,0.11339178609409037
+AI-assisted planning,Standard support,2248.0,0.0008816051654203873,0.002644815496261162
+AI-assisted planning,Peer mentoring,1992.0,0.12467992696369264,0.12467992696369264

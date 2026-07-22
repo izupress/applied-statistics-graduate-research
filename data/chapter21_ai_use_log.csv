@@ -1,0 +1,33 @@
+use_id,project_id,research_stage,task,tool_class,external_service,approved_enterprise_environment,sensitive_data_uploaded,confidential_manuscript_uploaded,human_verification_completed,references_verified_in_primary_sources,code_executed_and_tested,disclosure_required,disclosure_present,final_decision_made_by_human,ai_listed_as_author_or_contributor,confidentiality_violation,verification_failure,disclosure_gap,prohibited_flag,risk_level,compliant_use
+AI001,RP01,Analysis,Interpreting a model without human verification,Generative AI assistant,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,Low,1
+AI002,RP01,Literature,Summarising an author-provided abstract,Generative AI assistant,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0,Moderate,0
+AI003,RP01,Analysis,Generating statistical code,Generative AI assistant,0,0,0,0,0,1,1,1,0,1,0,0,1,1,0,Moderate,0
+AI004,RP01,Planning,Brainstorming research questions,Generative AI assistant,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,Low,1
+AI005,RP02,Peer review,Uploading a confidential manuscript,Generative AI assistant,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,High,1
+AI006,RP02,Literature,Summarising an author-provided abstract,Generative AI assistant,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,Low,1
+AI007,RP02,Analysis,Interpreting a model without human verification,Generative AI assistant,1,0,0,0,1,1,1,1,0,1,0,0,0,1,0,Moderate,0
+AI008,RP02,Writing,Language editing,Generative AI assistant,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,Low,1
+AI009,RP03,Planning,Drafting preregistration language,Generative AI assistant,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,Low,1
+AI010,RP03,Administration,Drafting a cover letter,Generative AI assistant,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,Low,0
+AI011,RP03,Peer review,Uploading a confidential manuscript,Generative AI assistant,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,High,1
+AI012,RP03,Data work,Uploading identifiable participant transcripts,Generative AI assistant,1,1,1,0,1,1,1,1,1,1,0,0,0,0,0,High,1
+AI013,RP04,Literature,Generating references without database verification,Generative AI assistant,1,0,0,0,1,0,1,0,1,1,0,0,1,0,0,Moderate,0
+AI014,RP04,Analysis,Interpreting a model without human verification,Generative AI assistant,1,0,0,0,0,1,1,1,1,1,0,0,1,0,0,Moderate,0
+AI015,RP04,Literature,Summarising an author-provided abstract,Generative AI assistant,1,0,0,0,0,1,1,0,1,1,0,0,1,0,0,Moderate,0
+AI016,RP04,Writing,Language editing,Generative AI assistant,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,Low,1
+AI017,RP05,Planning,Brainstorming research questions,Generative AI assistant,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,Low,1
+AI018,RP05,Literature,Summarising an author-provided abstract,Generative AI assistant,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0,Low,1
+AI019,RP05,Administration,Drafting a cover letter,Generative AI assistant,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,Low,1
+AI020,RP05,Literature,Generating search keywords,Generative AI assistant,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0,Low,1
+AI021,RP06,Planning,Drafting preregistration language,Generative AI assistant,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,Low,1
+AI022,RP06,Literature,Generating references without database verification,Generative AI assistant,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0,Low,1
+AI023,RP06,Writing,Translating a methods section,Generative AI assistant,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,Low,1
+AI024,RP06,Visualisation,Drafting an explanatory diagram,Generative AI assistant,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,Low,1
+AI025,RP07,Peer review,Uploading a confidential manuscript,Generative AI assistant,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,High,1
+AI026,RP07,Writing,Language editing,Generative AI assistant,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,Low,1
+AI027,RP07,Planning,Brainstorming research questions,Generative AI assistant,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,Low,1
+AI028,RP07,Literature,Summarising an author-provided abstract,Generative AI assistant,1,1,0,0,0,1,1,0,1,1,0,0,1,0,0,Moderate,0
+AI029,RP08,Planning,Brainstorming research questions,Generative AI assistant,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,Low,1
+AI030,RP08,Analysis,Generating statistical code,Generative AI assistant,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,Low,1
+AI031,RP08,Data work,Uploading identifiable participant transcripts,Generative AI assistant,1,1,1,0,1,1,1,1,1,1,0,0,0,0,0,High,1
+AI032,RP08,Literature,Generating search keywords,Generative AI assistant,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,Low,1

@@ -1,0 +1,7 @@
+treatment,time,total,observed,missing
+Control,Baseline,93,93,0
+Control,Post,93,88,5
+Control,Follow-up,93,85,8
+Intervention,Baseline,87,87,0
+Intervention,Post,87,82,5
+Intervention,Follow-up,87,77,10

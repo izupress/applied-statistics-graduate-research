@@ -1,0 +1,4 @@
+method,estimate,standard_error,df,statistic,p_value,ci_low,ci_high
+Paired t test,7.51154,0.80748,77.0,9.3175,0.0,5.90363,9.11945
+Wilcoxon signed-rank test,,,,218.0,0.0,,
+McNemar exact test,,,,17.0,0.13516,,

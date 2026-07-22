@@ -1,0 +1,6 @@
+parameter,ols_estimate,ols_se,robust_estimate,robust_se
+const,49.824,4.669,40.458,3.728
+study_hours,1.346,0.142,1.742,0.113
+prior_gpa,4.605,1.06,6.495,0.846
+self_efficacy,0.397,0.11,0.43,0.088
+age,-0.026,0.077,-0.015,0.062

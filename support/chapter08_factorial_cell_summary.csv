@@ -1,0 +1,7 @@
+feedback,delivery_format,count,mean,std
+Standard feedback,Face-to-face,31,73.21935483870968,8.619606307902108
+Standard feedback,Online,29,71.93103448275862,8.334999505025088
+Standard feedback,Hybrid,33,73.93333333333334,12.58919841239571
+Structured feedback,Face-to-face,32,77.3875,10.681511008249482
+Structured feedback,Online,30,78.55,12.744647287499117
+Structured feedback,Hybrid,35,85.00571428571428,10.20394799192199

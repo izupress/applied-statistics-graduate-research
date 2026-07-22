@@ -1,0 +1,7 @@
+time_num,treatment,prior_score,time,predicted_mean
+0,Control,64.57265625,Baseline,70.4192040170819
+1,Control,64.57265625,Post,72.52942058657572
+2,Control,64.57265625,Follow-up,71.70674275421253
+0,Intervention,64.57265625,Baseline,69.49948464456004
+1,Intervention,64.57265625,Post,76.10584583544862
+2,Intervention,64.57265625,Follow-up,79.77931262448018

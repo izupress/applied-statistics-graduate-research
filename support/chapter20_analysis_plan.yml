@@ -1,0 +1,44 @@
+version: 1.0
+created: 2026-07-21
+chapter: 20
+title: Yeniden Üretilebilir Vaka Çalışmaları
+data:
+  wide: data/chapter20_master_wide.csv
+  longitudinal: data/chapter20_longitudinal_long.csv
+  dictionary: data/chapter20_data_dictionary.csv
+analyses:
+  - id: ancova
+    outcome: Post
+    estimand: Baseline ile düzeltilmiş müdahale grubu ortalama farkı
+    model: "Post ~ centered(Baseline) + intervention"
+    primary_uncertainty: HC3 95% güven aralığı
+    sensitivity: klasik OLS kovaryansı
+  - id: longitudinal_mixed_model
+    outcome: research_score
+    estimand: zamana göre müdahale farkı ve değişim eğrisi
+    model: "time + time^2 + intervention + time:intervention + centered(prior_score)"
+    random_effects: katılımcı için kesim ve zaman eğimi
+    estimation: REML
+  - id: external_validation
+    outcome: completed_on_time
+    development_sites: [Site_A, Site_B]
+    validation_site: Site_C
+    predictors:
+      - scaled_prior_score
+      - scaled_attendance_rate
+      - centered_self_efficacy_post
+      - intervention
+      - programme
+    performance:
+      - ROC_AUC
+      - Brier_score
+      - log_loss
+missing_data:
+  strategy: Her model için gerekli değişkenlerde tam gözlem analizi
+  reporting: Her analizde kullanılan n ayrı raporlanır
+reproducibility:
+  random_seed: 20260721
+  python_script: code/Python/chapter20_case_studies.py
+  r_script: code/R/chapter20_case_studies.R
+  checksums: support/chapter20_checksums_sha256.csv
+  environment: support/chapter20_session_info.txt

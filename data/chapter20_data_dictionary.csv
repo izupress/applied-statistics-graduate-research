@@ -1,0 +1,15 @@
+variable,file,role,description,coding
+participant_id,both,identifier,Synthetic participant identifier,1-360
+site,both,validation split,Research site,"Site_A, Site_B, Site_C"
+programme,both,predictor,Graduate programme,"Masters, Doctoral"
+intervention,both,exposure,Research training condition,"Control, Workshop, Blended"
+prior_score,both,covariate,Prior academic score,continuous
+attendance_rate,both,predictor,Programme attendance percentage,40-100
+self_efficacy_baseline,both,baseline measure,Baseline research self-efficacy,1-5
+self_efficacy_post,wide,predictor,Post-programme research self-efficacy,1-5
+Baseline,wide,covariate/outcome,Baseline research score,continuous
+Post,wide,outcome,Post-programme research score,"continuous, limited missingness"
+FollowUp,wide,outcome,Follow-up research score,"continuous, incomplete"
+time,long,within-person predictor,Numeric measurement occasion,"0=Baseline, 1=Post, 2=FollowUp"
+research_score,long,repeated outcome,Research performance score,continuous
+completed_on_time,wide,binary outcome,Completed research milestone on time,"0=No, 1=Yes"

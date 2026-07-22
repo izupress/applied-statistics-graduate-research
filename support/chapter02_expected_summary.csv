@@ -1,0 +1,4 @@
+instructional_format,n,mean,sd,median,q1,q3,min,max
+Face-to-face,48,81.6,7.0,80.0,76.4,85.1,70.8,95.9
+Hybrid,26,86.9,7.2,87.2,81.8,91.6,70.0,100.0
+Online,40,79.1,7.0,80.2,73.6,84.2,66.9,91.8

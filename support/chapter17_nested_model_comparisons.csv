@@ -1,0 +1,3 @@
+comparison,chi_square_difference,df_difference,p_value
+M1 versus M2,0.055224141843766006,1,0.8142101503791139
+M1 versus M3,0.26914432834443147,1,0.603906342365635

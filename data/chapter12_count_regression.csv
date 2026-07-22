@@ -1,0 +1,361 @@
+student_id,exposure_months,stress_score,delivery_format,employment_status,support_requests
+C001,7.71,29.8,Face-to-face,Part-time,6
+C002,10.81,19.5,Hybrid,Part-time,7
+C003,8.2,25.8,Hybrid,Part-time,0
+C004,5.09,33.3,Face-to-face,Not employed,2
+C005,8.51,34.5,Hybrid,Full-time,6
+C006,7.19,22.8,Hybrid,Not employed,0
+C007,11.39,32.1,Face-to-face,Part-time,0
+C008,9.34,32.8,Face-to-face,Part-time,1
+C009,8.64,15.4,Hybrid,Not employed,1
+C010,8.62,32.2,Hybrid,Not employed,3
+C011,8.09,36.5,Face-to-face,Full-time,1
+C012,7.84,27.1,Hybrid,Part-time,4
+C013,10.85,29.6,Face-to-face,Not employed,1
+C014,4.66,40.5,Face-to-face,Not employed,0
+C015,7.98,30.9,Face-to-face,Not employed,2
+C016,6.48,28.2,Face-to-face,Not employed,0
+C017,10.63,34.1,Face-to-face,Part-time,6
+C018,5.15,20.4,Hybrid,Not employed,0
+C019,5.7,23.3,Hybrid,Full-time,5
+C020,5.45,27.9,Face-to-face,Not employed,2
+C021,7.16,14.3,Face-to-face,Part-time,1
+C022,7.59,26.5,Face-to-face,Not employed,0
+C023,8.2,31.1,Online,Full-time,4
+C024,8.85,28.6,Hybrid,Full-time,11
+C025,8.03,20.5,Hybrid,Not employed,1
+C026,4.79,38.3,Hybrid,Full-time,1
+C027,4.7,24.6,Face-to-face,Not employed,0
+C028,8.99,24.9,Online,Full-time,6
+C029,7.54,41.3,Face-to-face,Part-time,4
+C030,4.31,34.3,Hybrid,Full-time,0
+C031,6.2,28.7,Face-to-face,Not employed,0
+C032,10.36,31.1,Face-to-face,Full-time,10
+C033,10.23,21.0,Online,Not employed,6
+C034,5.5,27.2,Online,Not employed,2
+C035,6.52,26.1,Face-to-face,Part-time,1
+C036,6.97,39.7,Face-to-face,Part-time,10
+C037,9.46,18.0,Face-to-face,Not employed,1
+C038,4.34,24.8,Online,Part-time,10
+C039,4.59,35.8,Hybrid,Not employed,6
+C040,6.61,24.1,Face-to-face,Full-time,1
+C041,9.35,32.5,Face-to-face,Not employed,8
+C042,9.55,29.1,Online,Full-time,2
+C043,10.58,28.6,Online,Not employed,11
+C044,6.49,32.0,Hybrid,Not employed,3
+C045,11.86,23.8,Face-to-face,Part-time,5
+C046,11.27,28.8,Face-to-face,Not employed,8
+C047,7.87,28.0,Online,Full-time,7
+C048,6.99,32.6,Online,Not employed,3
+C049,4.21,29.3,Online,Part-time,0
+C050,5.16,17.4,Face-to-face,Not employed,0
+C051,10.06,22.0,Face-to-face,Part-time,0
+C052,10.21,32.7,Hybrid,Not employed,11
+C053,5.47,15.5,Hybrid,Full-time,1
+C054,7.98,22.7,Online,Full-time,7
+C055,5.6,34.9,Face-to-face,Not employed,2
+C056,11.3,27.4,Hybrid,Part-time,0
+C057,6.39,19.8,Online,Part-time,2
+C058,6.68,22.9,Online,Part-time,5
+C059,11.96,29.3,Online,Not employed,0
+C060,7.62,21.3,Face-to-face,Part-time,0
+C061,4.27,34.0,Hybrid,Part-time,7
+C062,6.59,30.1,Hybrid,Not employed,1
+C063,4.89,20.5,Face-to-face,Part-time,0
+C064,4.7,13.0,Hybrid,Full-time,1
+C065,11.13,28.6,Online,Part-time,0
+C066,7.54,23.0,Face-to-face,Not employed,3
+C067,9.45,17.0,Hybrid,Part-time,1
+C068,11.64,23.0,Online,Full-time,0
+C069,8.04,22.4,Online,Part-time,1
+C070,10.83,29.4,Face-to-face,Part-time,1
+C071,11.38,29.5,Online,Part-time,17
+C072,5.28,32.7,Face-to-face,Part-time,3
+C073,4.24,37.8,Face-to-face,Part-time,2
+C074,10.53,28.5,Face-to-face,Part-time,1
+C075,11.9,26.8,Online,Part-time,13
+C076,10.42,35.0,Online,Full-time,9
+C077,9.5,27.8,Face-to-face,Part-time,7
+C078,11.19,35.4,Hybrid,Full-time,5
+C079,9.52,13.7,Hybrid,Part-time,0
+C080,11.89,27.9,Hybrid,Part-time,1
+C081,8.28,33.7,Online,Not employed,5
+C082,6.22,35.3,Face-to-face,Not employed,0
+C083,7.86,21.3,Online,Not employed,0
+C084,8.49,41.0,Face-to-face,Full-time,10
+C085,9.85,29.4,Face-to-face,Not employed,8
+C086,8.66,27.7,Online,Full-time,7
+C087,6.71,21.1,Face-to-face,Part-time,1
+C088,5.74,33.4,Online,Not employed,0
+C089,6.7,26.2,Hybrid,Full-time,2
+C090,9.41,33.2,Online,Not employed,1
+C091,6.89,26.6,Face-to-face,Full-time,1
+C092,7.68,22.5,Online,Full-time,0
+C093,4.28,35.9,Face-to-face,Not employed,0
+C094,4.69,23.3,Hybrid,Part-time,0
+C095,8.22,34.7,Face-to-face,Part-time,5
+C096,8.96,21.8,Hybrid,Not employed,0
+C097,4.26,19.0,Online,Part-time,1
+C098,4.42,34.0,Face-to-face,Not employed,0
+C099,10.3,31.5,Hybrid,Full-time,4
+C100,7.68,18.6,Face-to-face,Full-time,7
+C101,8.77,20.3,Hybrid,Part-time,0
+C102,8.49,39.0,Hybrid,Part-time,5
+C103,8.92,33.5,Hybrid,Part-time,3
+C104,10.37,39.4,Hybrid,Not employed,2
+C105,11.79,37.0,Face-to-face,Part-time,4
+C106,5.19,26.7,Hybrid,Full-time,1
+C107,7.55,38.3,Hybrid,Part-time,4
+C108,11.44,30.4,Online,Full-time,1
+C109,10.75,28.5,Online,Not employed,5
+C110,5.8,20.9,Hybrid,Part-time,0
+C111,10.16,30.0,Online,Full-time,5
+C112,7.79,24.5,Face-to-face,Not employed,2
+C113,9.86,21.5,Face-to-face,Not employed,0
+C114,9.36,11.2,Online,Not employed,2
+C115,10.9,25.5,Face-to-face,Part-time,13
+C116,5.36,21.7,Face-to-face,Part-time,0
+C117,5.09,27.3,Face-to-face,Part-time,1
+C118,8.16,22.2,Face-to-face,Not employed,1
+C119,7.02,34.0,Online,Not employed,15
+C120,4.33,26.0,Hybrid,Not employed,0
+C121,10.05,22.3,Face-to-face,Part-time,3
+C122,11.57,39.9,Hybrid,Not employed,0
+C123,8.43,24.1,Hybrid,Part-time,5
+C124,7.46,27.1,Hybrid,Not employed,4
+C125,7.13,25.2,Face-to-face,Not employed,1
+C126,8.19,27.2,Online,Part-time,7
+C127,4.45,25.9,Online,Not employed,1
+C128,10.94,23.7,Hybrid,Part-time,1
+C129,8.89,23.3,Online,Part-time,3
+C130,6.6,26.4,Hybrid,Part-time,5
+C131,7.29,38.6,Hybrid,Part-time,0
+C132,4.81,12.2,Hybrid,Not employed,0
+C133,11.63,26.3,Hybrid,Not employed,3
+C134,4.34,23.5,Face-to-face,Part-time,0
+C135,11.36,21.4,Hybrid,Not employed,0
+C136,4.9,24.1,Hybrid,Part-time,2
+C137,9.56,34.2,Hybrid,Full-time,9
+C138,4.22,22.6,Face-to-face,Part-time,0
+C139,9.99,20.0,Face-to-face,Not employed,3
+C140,9.25,25.4,Hybrid,Part-time,0
+C141,4.29,15.5,Face-to-face,Not employed,2
+C142,9.91,22.6,Face-to-face,Part-time,1
+C143,9.53,29.3,Face-to-face,Full-time,4
+C144,7.82,24.8,Online,Part-time,1
+C145,4.99,28.2,Face-to-face,Part-time,2
+C146,8.49,35.5,Hybrid,Not employed,17
+C147,10.95,26.4,Online,Not employed,11
+C148,4.87,24.5,Online,Part-time,1
+C149,6.76,32.5,Face-to-face,Part-time,3
+C150,5.06,18.0,Hybrid,Not employed,3
+C151,10.54,24.8,Face-to-face,Full-time,3
+C152,6.91,27.3,Hybrid,Part-time,0
+C153,4.37,20.0,Online,Part-time,0
+C154,9.15,21.3,Hybrid,Full-time,16
+C155,10.91,28.6,Face-to-face,Part-time,6
+C156,11.96,23.9,Face-to-face,Not employed,2
+C157,11.79,27.8,Online,Full-time,0
+C158,11.26,15.7,Hybrid,Full-time,5
+C159,9.76,32.6,Online,Part-time,3
+C160,11.92,21.1,Face-to-face,Not employed,1
+C161,7.27,17.0,Hybrid,Part-time,4
+C162,5.05,15.8,Online,Not employed,2
+C163,11.54,39.3,Online,Part-time,13
+C164,11.05,25.9,Face-to-face,Part-time,9
+C165,6.46,24.0,Online,Part-time,3
+C166,6.25,27.7,Face-to-face,Part-time,9
+C167,4.92,30.4,Online,Not employed,1
+C168,4.81,39.0,Hybrid,Not employed,2
+C169,4.11,25.2,Online,Not employed,0
+C170,6.01,37.1,Hybrid,Full-time,0
+C171,10.09,32.5,Hybrid,Not employed,0
+C172,10.75,35.2,Face-to-face,Not employed,3
+C173,8.16,23.6,Hybrid,Part-time,3
+C174,6.05,31.5,Face-to-face,Not employed,0
+C175,4.58,25.6,Online,Not employed,5
+C176,5.05,24.3,Hybrid,Part-time,4
+C177,9.01,22.8,Hybrid,Part-time,3
+C178,8.94,27.2,Hybrid,Not employed,0
+C179,7.96,28.3,Online,Not employed,3
+C180,11.36,31.3,Face-to-face,Not employed,9
+C181,5.49,33.0,Online,Part-time,3
+C182,10.56,25.7,Online,Full-time,0
+C183,10.16,22.9,Online,Part-time,6
+C184,10.83,34.2,Online,Part-time,16
+C185,5.74,40.2,Face-to-face,Full-time,3
+C186,4.04,32.6,Online,Full-time,4
+C187,6.56,15.0,Face-to-face,Full-time,1
+C188,7.09,20.0,Face-to-face,Not employed,2
+C189,5.85,29.8,Face-to-face,Part-time,1
+C190,5.13,15.6,Online,Not employed,3
+C191,7.41,29.1,Face-to-face,Not employed,1
+C192,5.24,34.8,Hybrid,Not employed,0
+C193,9.67,33.0,Hybrid,Not employed,10
+C194,4.25,19.7,Online,Part-time,0
+C195,10.85,31.5,Online,Not employed,1
+C196,11.89,20.3,Hybrid,Not employed,3
+C197,4.27,28.3,Online,Not employed,4
+C198,7.97,25.1,Online,Full-time,9
+C199,8.83,17.9,Face-to-face,Part-time,0
+C200,10.94,26.1,Hybrid,Part-time,1
+C201,7.26,16.6,Hybrid,Not employed,5
+C202,7.9,19.4,Hybrid,Part-time,0
+C203,4.48,21.9,Face-to-face,Part-time,0
+C204,11.97,29.1,Face-to-face,Part-time,3
+C205,9.7,19.9,Online,Full-time,1
+C206,4.81,22.3,Face-to-face,Part-time,0
+C207,8.85,32.1,Face-to-face,Full-time,1
+C208,6.92,20.2,Face-to-face,Part-time,0
+C209,10.84,27.7,Face-to-face,Not employed,2
+C210,11.02,21.6,Online,Full-time,2
+C211,11.62,41.7,Hybrid,Full-time,0
+C212,11.5,33.3,Online,Part-time,1
+C213,9.51,34.2,Hybrid,Part-time,0
+C214,4.32,32.2,Online,Part-time,1
+C215,4.89,18.5,Face-to-face,Not employed,0
+C216,4.78,18.5,Face-to-face,Part-time,0
+C217,8.14,32.8,Hybrid,Not employed,1
+C218,7.2,25.4,Online,Not employed,1
+C219,10.73,27.4,Face-to-face,Part-time,3
+C220,5.51,32.1,Face-to-face,Part-time,2
+C221,9.15,32.0,Hybrid,Not employed,11
+C222,11.07,23.3,Face-to-face,Not employed,2
+C223,8.47,29.8,Face-to-face,Part-time,2
+C224,7.65,28.8,Hybrid,Not employed,3
+C225,8.53,26.8,Face-to-face,Not employed,0
+C226,10.14,25.7,Hybrid,Full-time,18
+C227,5.01,27.5,Face-to-face,Not employed,3
+C228,9.53,30.6,Face-to-face,Full-time,0
+C229,9.2,29.4,Hybrid,Not employed,5
+C230,6.58,35.9,Online,Part-time,0
+C231,7.44,35.0,Online,Not employed,8
+C232,6.6,29.8,Face-to-face,Full-time,3
+C233,6.17,18.8,Face-to-face,Full-time,0
+C234,11.57,21.4,Hybrid,Full-time,3
+C235,8.04,17.0,Face-to-face,Not employed,6
+C236,4.48,30.1,Online,Part-time,0
+C237,5.76,28.6,Face-to-face,Part-time,2
+C238,7.12,39.9,Hybrid,Part-time,0
+C239,7.1,23.8,Face-to-face,Part-time,2
+C240,10.18,24.9,Hybrid,Not employed,4
+C241,11.13,27.6,Online,Full-time,12
+C242,5.62,24.6,Online,Part-time,2
+C243,7.73,27.7,Online,Not employed,4
+C244,6.89,11.1,Hybrid,Not employed,2
+C245,4.92,26.0,Face-to-face,Not employed,2
+C246,6.22,47.6,Hybrid,Not employed,24
+C247,10.19,30.2,Online,Part-time,1
+C248,10.75,26.8,Face-to-face,Not employed,0
+C249,10.21,23.8,Hybrid,Full-time,7
+C250,9.39,38.0,Face-to-face,Not employed,4
+C251,6.43,37.2,Online,Part-time,4
+C252,4.99,25.8,Hybrid,Part-time,1
+C253,11.56,43.6,Online,Not employed,3
+C254,6.85,31.2,Hybrid,Part-time,4
+C255,9.75,29.7,Face-to-face,Not employed,4
+C256,10.72,28.6,Face-to-face,Not employed,0
+C257,8.74,22.8,Hybrid,Part-time,0
+C258,5.69,34.7,Hybrid,Full-time,1
+C259,9.94,31.1,Face-to-face,Part-time,1
+C260,5.82,24.9,Online,Part-time,0
+C261,7.45,13.5,Online,Part-time,3
+C262,8.47,30.0,Online,Full-time,8
+C263,8.61,30.3,Face-to-face,Part-time,5
+C264,6.34,21.2,Face-to-face,Not employed,1
+C265,9.99,33.2,Online,Part-time,9
+C266,5.61,25.7,Online,Part-time,0
+C267,6.03,34.0,Hybrid,Part-time,6
+C268,5.51,21.2,Face-to-face,Part-time,1
+C269,6.74,24.4,Online,Part-time,4
+C270,5.71,32.9,Face-to-face,Part-time,1
+C271,9.0,24.7,Face-to-face,Part-time,0
+C272,11.16,27.9,Online,Full-time,2
+C273,4.05,22.1,Face-to-face,Full-time,0
+C274,10.17,44.1,Face-to-face,Full-time,1
+C275,11.78,21.5,Hybrid,Not employed,9
+C276,9.21,30.5,Face-to-face,Full-time,0
+C277,4.88,24.8,Hybrid,Part-time,1
+C278,4.51,31.8,Hybrid,Not employed,1
+C279,4.83,21.4,Online,Part-time,0
+C280,10.11,32.5,Face-to-face,Not employed,0
+C281,6.98,25.1,Face-to-face,Part-time,1
+C282,5.86,28.7,Face-to-face,Part-time,1
+C283,4.65,22.7,Hybrid,Not employed,0
+C284,9.29,24.9,Online,Not employed,0
+C285,6.0,41.1,Hybrid,Not employed,2
+C286,4.83,20.5,Hybrid,Part-time,3
+C287,10.3,26.7,Hybrid,Part-time,4
+C288,5.15,31.8,Hybrid,Full-time,12
+C289,4.13,10.9,Hybrid,Full-time,1
+C290,11.54,23.5,Face-to-face,Full-time,1
+C291,9.13,32.9,Online,Full-time,0
+C292,9.58,20.7,Face-to-face,Not employed,1
+C293,5.57,30.9,Hybrid,Not employed,2
+C294,5.13,38.0,Face-to-face,Part-time,6
+C295,7.83,24.2,Hybrid,Part-time,1
+C296,7.72,32.2,Face-to-face,Not employed,3
+C297,9.2,35.4,Online,Full-time,6
+C298,5.31,26.5,Face-to-face,Part-time,1
+C299,8.25,23.9,Hybrid,Part-time,4
+C300,10.56,33.0,Face-to-face,Not employed,3
+C301,9.78,24.8,Face-to-face,Part-time,0
+C302,4.07,16.9,Face-to-face,Not employed,0
+C303,8.97,30.6,Face-to-face,Part-time,3
+C304,8.91,30.6,Hybrid,Part-time,0
+C305,4.49,31.3,Hybrid,Not employed,12
+C306,7.61,24.9,Online,Not employed,5
+C307,6.9,33.2,Face-to-face,Full-time,0
+C308,10.29,34.3,Hybrid,Not employed,5
+C309,8.8,33.5,Hybrid,Full-time,12
+C310,5.53,28.9,Face-to-face,Full-time,5
+C311,6.94,30.3,Face-to-face,Not employed,1
+C312,7.25,17.8,Hybrid,Not employed,0
+C313,6.63,18.5,Online,Part-time,1
+C314,9.71,24.0,Hybrid,Part-time,14
+C315,10.89,20.9,Online,Part-time,0
+C316,9.98,20.3,Online,Part-time,0
+C317,6.11,20.2,Face-to-face,Full-time,5
+C318,4.11,26.3,Hybrid,Not employed,2
+C319,9.28,28.6,Online,Part-time,1
+C320,11.2,33.7,Face-to-face,Full-time,1
+C321,11.96,24.3,Online,Not employed,0
+C322,8.36,28.2,Face-to-face,Part-time,8
+C323,9.92,32.6,Face-to-face,Full-time,1
+C324,4.36,30.3,Face-to-face,Part-time,2
+C325,7.35,35.6,Online,Not employed,3
+C326,8.84,26.2,Online,Not employed,13
+C327,11.37,24.1,Face-to-face,Not employed,2
+C328,9.55,29.3,Hybrid,Part-time,2
+C329,6.7,21.1,Face-to-face,Part-time,0
+C330,10.47,21.5,Hybrid,Not employed,4
+C331,5.93,32.2,Hybrid,Not employed,3
+C332,7.22,38.1,Hybrid,Not employed,1
+C333,7.77,31.7,Face-to-face,Not employed,0
+C334,6.26,40.1,Hybrid,Part-time,0
+C335,9.42,27.6,Online,Not employed,0
+C336,11.02,38.6,Face-to-face,Full-time,4
+C337,5.95,42.4,Hybrid,Part-time,10
+C338,10.35,18.5,Face-to-face,Not employed,0
+C339,6.37,38.7,Face-to-face,Part-time,6
+C340,10.14,28.1,Online,Not employed,3
+C341,5.02,29.5,Face-to-face,Not employed,0
+C342,11.37,23.8,Online,Full-time,5
+C343,7.95,44.7,Face-to-face,Not employed,1
+C344,11.39,32.7,Face-to-face,Not employed,0
+C345,6.77,25.9,Face-to-face,Part-time,1
+C346,10.46,32.1,Hybrid,Part-time,2
+C347,4.37,38.3,Face-to-face,Part-time,1
+C348,4.79,43.3,Hybrid,Not employed,3
+C349,4.86,17.9,Online,Full-time,2
+C350,11.2,28.1,Face-to-face,Not employed,0
+C351,8.44,35.4,Hybrid,Full-time,0
+C352,5.35,21.1,Hybrid,Part-time,0
+C353,11.74,16.5,Online,Part-time,2
+C354,4.16,29.5,Face-to-face,Full-time,3
+C355,10.27,22.1,Hybrid,Not employed,2
+C356,11.22,34.3,Face-to-face,Full-time,3
+C357,5.47,10.0,Hybrid,Part-time,1
+C358,11.01,30.5,Face-to-face,Part-time,10
+C359,10.56,34.1,Face-to-face,Part-time,3
+C360,4.19,27.2,Online,Not employed,3

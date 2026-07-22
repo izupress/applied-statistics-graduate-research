@@ -1,0 +1,2 @@
+n_complete,parameters_including_intercept,breusch_pagan_lm,breusch_pagan_p,breusch_pagan_f,breusch_pagan_f_p,reset_f,reset_p,max_cook_student_id,max_cook_distance,max_leverage_student_id,max_leverage,max_abs_studentized_student_id,max_abs_studentized_residual,max_vif,max_condition_index
+268,10,20.844316324244247,0.013359905421675686,2.417654569277795,0.011915066863244008,1.3988651207311864,0.2380066940870228,M118,0.22376947371842712,M118,0.13504551438460366,M118,-3.8879841720058703,2.537825520523203,21.883061832999793

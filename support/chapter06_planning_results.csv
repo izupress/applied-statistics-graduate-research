@@ -1,0 +1,8 @@
+scenario_id,analysis_n_per_group,analysis_n_total,inflation_factor,recruit_n_per_group,recruit_n_total,notes
+M1,92.0,184,1.1764705882352942,109.0,218,Exact two-sample t approximation via statsmodels
+M2,338.0,676,1.1111111111111112,376.0,752,Smaller target effect and 90% power
+P1,152.0,304,1.1363636363636365,173.0,346,Normal approximation for two independent proportions
+PR1,,97,1.1111111111111112,,108,95% CI half-width of 2 points for one mean
+E1,112.0,224,1.1111111111111112,125.0,250,Normal-approximation TOST under true difference zero
+C1,,359,2.294117647058824,11.0,440,"11 clusters per arm, 20 individuals per cluster"
+A1,59.0,118,0.7529411764705882,70.0,140,Approximate ANCOVA reduction using 1-rho^2

@@ -1,0 +1,3 @@
+analysis,complete_case_n,items,kmo,correlation_determinant,bartlett_chi_square,bartlett_df,bartlett_p,kaiser_eigenvalues_above_one,parallel_analysis_factors,map_factors,one_factor_rmsr
+Draft 12-item development sample,202,12,0.9098939375638565,0.001182548430729779,1322.179709761604,66,5.520784676511603e-233,2,1,1,0.05923711346851943
+Final 9-item development sample,206,9,0.9400298496600844,0.01212515671987753,887.6424684479861,36,5.2393516314746684e-163,1,1,1,0.029183795450612476

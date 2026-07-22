@@ -1,0 +1,60 @@
+Chapter 17 AMOS model specification
+===================================
+
+Data file
+---------
+Open:
+data/chapter17_cfa_validation.sav
+
+Prespecified Model M1
+---------------------
+1. Draw one latent variable and name it General.
+2. Draw nine observed rectangles named q1 through q9.
+3. Draw one-headed arrows from General to every item.
+4. Add one error term to every item.
+5. Fix the variance of General to 1.0.
+6. Estimate all nine factor loadings and all nine residual variances.
+7. Do not correlate residuals in the prespecified model.
+8. Request:
+   - Standardised estimates
+   - Squared multiple correlations
+   - Residual moments
+   - Modification indices
+   - Standardised residual covariances
+   - Bootstrap confidence intervals if desired
+9. Use maximum likelihood. With missing values, use AMOS's full
+   information estimation if the installed version supports it.
+
+Rival Model M2
+--------------
+1. Replace General with two correlated latent variables.
+2. Factor1 loads on q1-q5.
+3. Factor2 loads on q6-q9.
+4. Fix both latent variances to 1.0.
+5. Estimate the factor covariance.
+6. Compare fit and inspect the factor correlation.
+7. A correlation close to one indicates poor discriminant validity.
+
+Rival Model M3
+--------------
+1. Start from M1.
+2. Add a covariance between the q4 and q9 residuals.
+3. This modification represents a reverse-wording method hypothesis.
+4. Retain it only if theory and replication support the parameter.
+5. Compare the one-degree-of-freedom chi-square change and information
+   criteria.
+
+Reporting
+---------
+Report:
+- Analytic sample and missing-data method
+- Identification method
+- Estimator
+- Chi-square and degrees of freedom
+- CFI, TLI, RMSEA with confidence interval and p-close
+- SRMR
+- Standardised loadings and R-squared
+- Residual diagnostics
+- Modification-index decisions
+- Composite reliability and AVE
+- Rival-model comparison

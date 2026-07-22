@@ -1,0 +1,4 @@
+lower_workload_c,upper_workload_c,lower_workload_original,upper_workload_original,slope_sign_at_midpoint,significant_at_alpha_0_05
+-27.9044,8.728451277096646,21.742725000000004,58.37557627709665,positive,True
+8.728451277096646,17.52028533014595,58.37557627709665,67.16741033014596,negative,False
+17.52028533014595,30.3531,67.16741033014596,80.000225,negative,True

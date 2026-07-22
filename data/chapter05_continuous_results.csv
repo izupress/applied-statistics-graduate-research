@@ -1,0 +1,5 @@
+analysis,estimate,standard_error,df,ci_low,ci_high,p_value
+Welch mean difference,5.5735,1.7362,183.7031,2.148,8.9989,0.0016
+"Baseline-adjusted treatment effect, HC3",7.6583,1.1132,183.0,5.4765,9.8401,0.0
+Bootstrap mean difference,5.5735,1.7368,,2.1989,8.8505,
+Permutation mean-difference test,5.5735,1.7979,,,,0.002

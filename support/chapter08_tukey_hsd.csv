@@ -1,0 +1,7 @@
+group1,group2,mean_difference,adjusted_p,ci_low,ci_high,reject
+Adaptive digital,Collaborative learning,-4.4884,0.2138,-10.4798,1.503,False
+Adaptive digital,Flipped classroom,-7.3768,0.0081,-13.3059,-1.4478,True
+Adaptive digital,Lecture,-12.2963,0.0,-18.3553,-6.2373,True
+Collaborative learning,Flipped classroom,-2.8884,0.5667,-8.6716,2.8947,False
+Collaborative learning,Lecture,-7.8079,0.0043,-13.7241,-1.8917,True
+Flipped classroom,Lecture,-4.9195,0.1327,-10.7725,0.9336,False

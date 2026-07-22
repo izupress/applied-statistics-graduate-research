@@ -1,0 +1,5 @@
+item,decision,reason
+q1-q9,Retain,Core construct coverage and acceptable item-total behaviour
+q10,Remove or rewrite,Weak corrected item-total relationship and mixed content
+q11,Remove from short form,Near-duplicate of q3; adds redundancy more than content breadth
+q12,Remove from unidimensional score,Primarily reflects a secondary construct

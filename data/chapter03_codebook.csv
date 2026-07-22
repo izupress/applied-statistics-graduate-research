@@ -1,0 +1,13 @@
+variable,label,type,allowed_values,missing_or_invalid,cleaning_or_derivation_rule
+student_id,Pseudonymous student identifier,string,S001-S150,,"Trim whitespace, uppercase, and use as primary key after version resolution"
+record_version,Submitted record version,integer,1 or 2,,Keep the highest version within student_id
+entry_date,Date the record was entered,date,YYYY-MM-DD or YYYY/MM/DD,Blank or invalid date,Standardise to ISO date
+age,Age in completed years,numeric,18-75,"Blank, nonnumeric, or outside range",Set invalid values to missing
+gender,Self-described gender category,categorical,Female; Male; Nonbinary; Prefer not to say,Blank or unrecognised,Map documented synonyms only
+instructional_format,Primary instructional format,categorical,Face-to-face; Online; Hybrid,Blank or unrecognised,Map documented synonyms only
+study_hours,Reported weekly study time,numeric,0-112,"Blank, nonnumeric, or outside range",Set invalid values to missing
+item1-item5,Academic self-efficacy items,ordinal,1-5,"Blank, 9, 99, or invalid text",Reverse-score items 3 and 5
+self_efficacy_score,Mean academic self-efficacy score,derived numeric,1-5,Missing if fewer than four valid items,Mean of five directionally aligned items
+exam_score,Examination score,numeric,0-100,"Blank, nonnumeric, or outside range",Set invalid values to missing
+completion_status,Programme completion result,binary categorical,Completed; Did not complete,Blank or unrecognised,Map documented synonyms only
+consent,Permission for research use,binary categorical,Yes; No,Blank or unrecognised,Retain Yes only in the analysis data

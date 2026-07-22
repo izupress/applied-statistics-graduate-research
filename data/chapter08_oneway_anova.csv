@@ -1,0 +1,173 @@
+student_id,teaching_method,final_score
+O001,Lecture,49.0
+O002,Lecture,66.6
+O003,Lecture,65.3
+O004,Lecture,73.1
+O005,Lecture,56.6
+O006,Lecture,71.9
+O007,Lecture,71.0
+O008,Lecture,76.3
+O009,Lecture,69.6
+O010,Lecture,56.8
+O011,Lecture,68.9
+O012,Lecture,78.2
+O013,Lecture,89.2
+O014,Lecture,80.2
+O015,Lecture,61.7
+O016,Lecture,64.7
+O017,Lecture,81.5
+O018,Lecture,70.6
+O019,Lecture,69.9
+O020,Lecture,93.8
+O021,Lecture,79.2
+O022,Lecture,80.4
+O023,Lecture,83.3
+O024,Lecture,74.4
+O025,Lecture,67.6
+O026,Lecture,70.5
+O027,Lecture,65.6
+O028,Lecture,81.5
+O029,Lecture,74.3
+O030,Lecture,63.6
+O031,Lecture,73.6
+O032,Lecture,66.6
+O033,Lecture,67.5
+O034,Lecture,68.0
+O035,Lecture,59.1
+O036,Lecture,67.5
+O037,Lecture,83.2
+O038,Lecture,69.4
+O039,Lecture,80.3
+O040,Lecture,73.7
+O041,Lecture,84.4
+O042,Lecture,74.4
+O043,Flipped classroom,83.0
+O044,Flipped classroom,75.7
+O045,Flipped classroom,79.6
+O046,Flipped classroom,78.0
+O047,Flipped classroom,70.3
+O048,Flipped classroom,81.5
+O049,Flipped classroom,72.6
+O050,Flipped classroom,81.7
+O051,Flipped classroom,69.5
+O052,Flipped classroom,74.5
+O053,Flipped classroom,73.3
+O054,Flipped classroom,83.6
+O055,Flipped classroom,67.1
+O056,Flipped classroom,85.5
+O057,Flipped classroom,78.6
+O058,Flipped classroom,77.7
+O059,Flipped classroom,83.2
+O060,Flipped classroom,86.4
+O061,Flipped classroom,86.3
+O062,Flipped classroom,73.8
+O063,Flipped classroom,75.0
+O064,Flipped classroom,90.1
+O065,Flipped classroom,62.6
+O066,Flipped classroom,87.6
+O067,Flipped classroom,88.1
+O068,Flipped classroom,85.6
+O069,Flipped classroom,87.2
+O070,Flipped classroom,66.6
+O071,Flipped classroom,85.1
+O072,Flipped classroom,84.7
+O073,Flipped classroom,81.1
+O074,Flipped classroom,67.0
+O075,Flipped classroom,87.4
+O076,Flipped classroom,90.6
+O077,Flipped classroom,68.0
+O078,Flipped classroom,75.0
+O079,Flipped classroom,88.9
+O080,Flipped classroom,65.4
+O081,Flipped classroom,72.8
+O082,Flipped classroom,78.5
+O083,Flipped classroom,66.7
+O084,Flipped classroom,66.0
+O085,Flipped classroom,54.9
+O086,Flipped classroom,82.8
+O087,Flipped classroom,62.7
+O088,Flipped classroom,54.9
+O089,Collaborative learning,71.6
+O090,Collaborative learning,100.0
+O091,Collaborative learning,100.0
+O092,Collaborative learning,89.4
+O093,Collaborative learning,78.6
+O094,Collaborative learning,70.2
+O095,Collaborative learning,74.0
+O096,Collaborative learning,54.9
+O097,Collaborative learning,82.6
+O098,Collaborative learning,91.6
+O099,Collaborative learning,72.5
+O100,Collaborative learning,81.4
+O101,Collaborative learning,65.5
+O102,Collaborative learning,82.5
+O103,Collaborative learning,61.4
+O104,Collaborative learning,92.0
+O105,Collaborative learning,63.1
+O106,Collaborative learning,83.2
+O107,Collaborative learning,64.4
+O108,Collaborative learning,80.1
+O109,Collaborative learning,90.7
+O110,Collaborative learning,85.0
+O111,Collaborative learning,92.1
+O112,Collaborative learning,90.4
+O113,Collaborative learning,73.0
+O114,Collaborative learning,89.2
+O115,Collaborative learning,86.2
+O116,Collaborative learning,65.0
+O117,Collaborative learning,90.6
+O118,Collaborative learning,83.5
+O119,Collaborative learning,86.6
+O120,Collaborative learning,88.0
+O121,Collaborative learning,77.7
+O122,Collaborative learning,82.8
+O123,Collaborative learning,78.9
+O124,Collaborative learning,80.6
+O125,Collaborative learning,72.3
+O126,Collaborative learning,84.7
+O127,Collaborative learning,69.8
+O128,Collaborative learning,84.4
+O129,Collaborative learning,78.0
+O130,Collaborative learning,90.6
+O131,Collaborative learning,82.7
+O132,Collaborative learning,48.7
+O133,Adaptive digital,98.5
+O134,Adaptive digital,52.0
+O135,Adaptive digital,72.7
+O136,Adaptive digital,100.0
+O137,Adaptive digital,92.8
+O138,Adaptive digital,93.7
+O139,Adaptive digital,76.7
+O140,Adaptive digital,90.7
+O141,Adaptive digital,85.9
+O142,Adaptive digital,83.1
+O143,Adaptive digital,77.2
+O144,Adaptive digital,89.4
+O145,Adaptive digital,62.9
+O146,Adaptive digital,87.2
+O147,Adaptive digital,98.4
+O148,Adaptive digital,88.4
+O149,Adaptive digital,83.3
+O150,Adaptive digital,62.5
+O151,Adaptive digital,67.6
+O152,Adaptive digital,100.0
+O153,Adaptive digital,84.2
+O154,Adaptive digital,100.0
+O155,Adaptive digital,100.0
+O156,Adaptive digital,76.1
+O157,Adaptive digital,80.2
+O158,Adaptive digital,89.4
+O159,Adaptive digital,100.0
+O160,Adaptive digital,99.3
+O161,Adaptive digital,93.0
+O162,Adaptive digital,84.9
+O163,Adaptive digital,62.0
+O164,Adaptive digital,72.5
+O165,Adaptive digital,70.1
+O166,Adaptive digital,85.3
+O167,Adaptive digital,100.0
+O168,Adaptive digital,82.8
+O169,Adaptive digital,87.9
+O170,Adaptive digital,83.8
+O171,Adaptive digital,79.6
+O172,Adaptive digital,76.8

@@ -1,0 +1,18 @@
+Chapter 18 AMOS model specification
+
+M0 measurement model:
+Preparation -> prep1 prep2 prep3
+SelfEfficacy -> eff1 eff2 eff3
+Performance -> perf1 perf2 perf3
+Correlate the three factors and fix the first loading of each to 1.
+
+M1 partial mediation:
+Preparation -> SelfEfficacy
+SelfEfficacy -> Performance
+Preparation -> Performance
+Request standardised estimates, squared multiple correlations, direct/indirect/total effects, residuals, modification indices, and 5,000 bias-corrected bootstrap samples.
+
+M2 full mediation: delete Preparation -> Performance.
+M3 direct-only: retain Preparation -> Performance and delete SelfEfficacy -> Performance.
+Use the appropriate chi-square difference test and compare AIC/BIC.
+Arrows do not establish causation without temporal and confounding assumptions.

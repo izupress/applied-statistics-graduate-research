@@ -1,0 +1,2 @@
+n,r_squared,adjusted_r_squared,interaction_coefficient,interaction_p,breusch_pagan_p,maximum_vif,johnson_neyman_roots_n
+320,0.38912060057423037,0.3813634018513635,-0.10907074609744509,5.401619944668392e-10,0.1107547607372429,1.012274658707003,2

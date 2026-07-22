@@ -1,0 +1,8 @@
+audit_item,count
+Raw rows imported,155
+Unique normalised student identifiers,150
+Extra rows caused by repeated identifiers,5
+Rows retained after highest-version rule,150
+Rows excluded because consent was No,4
+Rows excluded because consent was missing or unrecognised,0
+Rows in final analysis data,146

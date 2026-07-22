@@ -1,0 +1,2 @@
+n,covariance,pearson_r,standardized_slope,r_squared,adjusted_r_squared,rmse,residual_standard_error,breusch_pagan_lm,breusch_pagan_p,max_cook_student_id,max_cook_distance,max_leverage_student_id,max_leverage
+190,23.76746588693957,0.5977178353241305,0.5977178353241298,0.3572666106645638,0.35384781604043913,9.978821372699883,10.031759788602,5.664494594908777,0.017311704409944704,S116,0.7867928716088599,S116,0.08569875859199566

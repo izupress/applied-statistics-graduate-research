@@ -1,0 +1,37 @@
+project_id,study_design,recommended_reporting_guideline,submission_stage,design_identified_in_title,guideline_named,objectives_prespecified,eligibility_criteria_clear,sample_flow_reported,outcomes_and_estimands_defined,missing_data_reported,effect_sizes_reported,confidence_intervals_reported,exact_p_values_reported,multiplicity_addressed,assumptions_and_diagnostics_reported,sensitivity_analysis_reported,limitations_balanced,preregistration_or_protocol_linked,data_availability_statement,code_availability_statement,materials_availability_statement,persistent_identifiers_used,ethics_approval_reported,consent_reported_when_applicable,funding_reported,conflicts_reported,ai_use_disclosed_when_applicable,reporting_score_percent,open_science_score_percent,ethics_transparency_score_percent,overall_score_percent,critical_omission_count,audit_status
+RP01,Randomised trial,CONSORT 2025,Internal draft,1,1,1,1,0,1,1,1,1,1,0,1,0,0,1,1,0,1,1,1,1,1,1,1,71.42857142857143,80.0,100.0,79.16666666666666,0,Minor revision required
+RP02,Randomised trial,CONSORT 2025,Internal draft,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,0,1,1,1,85.71428571428571,80.0,80.0,83.33333333333334,0,Minor revision required
+RP03,Randomised trial,CONSORT 2025,Internal draft,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,1,1,1,1,92.85714285714286,60.0,80.0,83.33333333333334,0,Minor revision required
+RP04,Randomised trial,CONSORT 2025,Internal draft,1,0,1,1,1,0,0,1,0,1,1,1,0,0,1,1,1,1,1,1,0,0,1,1,57.14285714285714,100.0,60.0,66.66666666666666,4,Major revision required
+RP05,Randomised trial,CONSORT 2025,Internal draft,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,92.85714285714286,80.0,100.0,91.66666666666666,0,Submission-ready after final verification
+RP06,Randomised trial,CONSORT 2025,Preprint-ready,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,100.0,80.0,80.0,91.66666666666666,0,Submission-ready after final verification
+RP07,Observational study,STROBE,Preprint-ready,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,0,0,1,1,1,1,1,0,78.57142857142857,60.0,80.0,75.0,0,Minor revision required
+RP08,Observational study,STROBE,Preprint-ready,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,0,0,0,1,85.71428571428571,80.0,40.0,75.0,3,Major revision required
+RP09,Observational study,STROBE,Internal draft,1,1,1,1,1,0,0,1,0,1,1,1,1,1,0,0,1,0,0,1,1,0,1,1,78.57142857142857,20.0,80.0,66.66666666666666,4,Major revision required
+RP10,Observational study,STROBE,Preprint-ready,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,0,1,0,1,92.85714285714286,60.0,60.0,79.16666666666666,1,Minor revision required
+RP11,Observational study,STROBE,Internal draft,1,1,1,0,0,0,0,1,0,0,1,0,1,1,1,0,1,1,0,1,0,1,1,1,50.0,60.0,80.0,58.333333333333336,3,Major revision required
+RP12,Observational study,STROBE,Internal draft,1,0,1,0,0,1,1,1,1,1,0,1,0,0,1,0,0,1,1,1,1,1,0,1,57.14285714285714,60.0,80.0,62.5,1,Substantial revision required
+RP13,Systematic review,PRISMA 2020,Preprint-ready,0,1,1,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,1,71.42857142857143,80.0,100.0,79.16666666666666,1,Minor revision required
+RP14,Systematic review,PRISMA 2020,Journal revision,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,100.0,100.0,80.0,95.83333333333334,1,Submission-ready after final verification
+RP15,Systematic review,PRISMA 2020,Internal draft,1,1,0,1,1,0,1,1,1,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,71.42857142857143,60.0,60.0,66.66666666666666,2,Substantial revision required
+RP16,Systematic review,PRISMA 2020,Preprint-ready,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,100.0,60.0,100.0,91.66666666666666,0,Submission-ready after final verification
+RP17,Systematic review,PRISMA 2020,Preprint-ready,1,1,1,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,1,0,0,1,64.28571428571429,40.0,60.0,58.333333333333336,4,Major revision required
+RP18,Systematic review,PRISMA 2020,Internal draft,1,1,0,1,0,1,0,1,0,1,0,1,0,1,1,0,1,1,0,1,1,1,1,1,57.14285714285714,60.0,100.0,66.66666666666666,2,Substantial revision required
+RP19,Prediction model,TRIPOD+AI,Journal revision,0,0,0,1,0,0,0,1,1,0,0,1,1,0,1,0,0,1,0,1,1,0,1,0,35.714285714285715,40.0,60.0,41.66666666666667,3,Major revision required
+RP20,Prediction model,TRIPOD+AI,Internal draft,1,0,1,0,1,0,1,0,1,1,0,1,1,1,1,0,0,1,0,1,1,1,1,0,64.28571428571429,40.0,80.0,62.5,2,Substantial revision required
+RP21,Prediction model,TRIPOD+AI,Journal revision,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,0,0,92.85714285714286,60.0,40.0,75.0,2,Minor revision required
+RP22,Prediction model,TRIPOD+AI,Internal draft,1,1,1,0,1,1,0,1,1,1,0,0,0,1,0,1,1,1,0,0,0,1,1,0,64.28571428571429,60.0,40.0,58.333333333333336,1,Substantial revision required
+RP23,Prediction model,TRIPOD+AI,Internal draft,1,1,0,1,0,0,1,1,1,1,1,0,0,0,1,1,1,0,0,1,1,1,1,1,57.14285714285714,60.0,100.0,66.66666666666666,1,Substantial revision required
+RP24,Prediction model,TRIPOD+AI,Internal draft,0,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,0,1,0,78.57142857142857,80.0,20.0,66.66666666666666,1,Substantial revision required
+RP25,Qualitative study,SRQR/COREQ,Internal draft,0,1,1,1,0,1,1,1,1,1,0,1,1,1,0,0,0,1,1,1,1,1,0,0,78.57142857142857,40.0,60.0,66.66666666666666,1,Substantial revision required
+RP26,Qualitative study,SRQR/COREQ,Internal draft,1,1,1,1,1,1,1,0,1,0,0,0,1,1,1,0,0,1,0,1,1,0,0,0,71.42857142857143,40.0,40.0,58.333333333333336,3,Major revision required
+RP27,Qualitative study,SRQR/COREQ,Journal revision,0,0,0,1,1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,35.714285714285715,20.0,0.0,25.0,4,Major revision required
+RP28,Qualitative study,SRQR/COREQ,Journal revision,0,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,0,0,1,1,1,1,1,78.57142857142857,40.0,100.0,75.0,0,Minor revision required
+RP29,Qualitative study,SRQR/COREQ,Internal draft,1,1,1,0,0,1,1,1,1,1,0,1,0,1,1,1,0,0,0,1,0,1,1,0,71.42857142857143,40.0,60.0,62.5,0,Substantial revision required
+RP30,Qualitative study,SRQR/COREQ,Journal revision,1,0,1,1,0,0,1,0,1,0,1,1,0,1,0,1,1,0,1,0,1,1,1,1,57.14285714285714,60.0,80.0,62.5,2,Substantial revision required
+RP31,Factor analysis or SEM,JARS-Quant and SEM-specific guidance,Internal draft,1,1,1,1,1,1,0,1,0,1,0,1,0,1,0,1,0,0,0,1,1,1,1,0,71.42857142857143,20.0,80.0,62.5,2,Substantial revision required
+RP32,Factor analysis or SEM,JARS-Quant and SEM-specific guidance,Internal draft,0,1,1,1,1,1,1,0,1,0,1,0,1,0,1,0,0,1,0,1,1,0,0,1,64.28571428571429,40.0,60.0,58.333333333333336,3,Major revision required
+RP33,Factor analysis or SEM,JARS-Quant and SEM-specific guidance,Preprint-ready,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1,1,1,0,1,92.85714285714286,60.0,80.0,83.33333333333334,1,Minor revision required
+RP34,Factor analysis or SEM,JARS-Quant and SEM-specific guidance,Journal revision,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,0,28.57142857142857,60.0,80.0,45.83333333333333,3,Major revision required
+RP35,Factor analysis or SEM,JARS-Quant and SEM-specific guidance,Preprint-ready,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,100.0,80.0,100.0,95.83333333333334,0,Submission-ready after final verification
+RP36,Factor analysis or SEM,JARS-Quant and SEM-specific guidance,Journal revision,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,0,0,0,1,1,1,1,0,85.71428571428571,40.0,80.0,75.0,0,Minor revision required

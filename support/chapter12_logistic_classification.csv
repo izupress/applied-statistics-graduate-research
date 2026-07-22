@@ -1,0 +1,2 @@
+threshold,true_negative,false_positive,false_negative,true_positive,sensitivity,specificity,positive_predictive_value,negative_predictive_value,accuracy
+0.5,72,98,48,212,0.8153846153846154,0.4235294117647059,0.6838709677419355,0.6,0.6604651162790698

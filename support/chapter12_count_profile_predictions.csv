@@ -1,0 +1,4 @@
+stress_score,delivery_format,employment_status,exposure_months,poisson_predicted_count,negative_binomial_predicted_count
+20,Face-to-face,Not employed,6.0,1.1575670273613712,1.0790618804041985
+30,Face-to-face,Not employed,6.0,1.7222666357519372,1.686020054593863
+40,Face-to-face,Not employed,6.0,2.562445451980122,2.6343842518353795

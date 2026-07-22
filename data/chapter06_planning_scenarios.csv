@@ -1,0 +1,8 @@
+scenario_id,design,primary_measure,control_value,target_value,standard_deviation,alpha,target_power,allocation_ratio,equivalence_margin,ci_half_width,attrition_rate,cluster_size,icc,baseline_correlation
+M1,Two independent means,Final examination score,,5.0,12.0,0.05,0.8,1.0,,,0.15,1,0.0,0.0
+M2,Two independent means,Final examination score,,3.0,12.0,0.05,0.9,1.0,,,0.1,1,0.0,0.0
+P1,Two independent proportions,Programme completion,0.6,0.75,,0.05,0.8,1.0,,,0.12,1,0.0,0.0
+PR1,Precision for one mean,Self-efficacy score,,,10.0,0.05,,,,2.0,0.1,1,0.0,0.0
+E1,Equivalence of two means,Final examination score,0.0,0.0,12.0,0.05,0.8,1.0,4.0,,0.1,1,0.0,0.0
+C1,Cluster-randomised means,Final examination score,,5.0,12.0,0.05,0.8,1.0,,,0.15,20,0.05,0.0
+A1,ANCOVA-adjusted means,Final examination score,,5.0,12.0,0.05,0.8,1.0,,,0.15,1,0.0,0.6

@@ -1,0 +1,121 @@
+student_id,instructional_format,exam_score,study_hours,self_efficacy,completion_status,employment_status
+S001,Hybrid,97.5,9.7,24.8,Did not complete,Not employed
+S002,Online,82.7,9.7,28.8,Did not complete,Part-time
+S003,Hybrid,91.4,9.7,26.7,Did not complete,Part-time
+S004,Hybrid,87.0,11.0,31.0,Did not complete,Not employed
+S005,Face-to-face,79.3,12.8,27.1,Did not complete,Part-time
+S006,Hybrid,,,35.2,Did not complete,Not employed
+S007,Face-to-face,95.9,9.8,25.7,Completed,Not employed
+S008,Online,81.4,7.8,35.6,Completed,Not employed
+S009,Face-to-face,71.6,4.2,27.9,Did not complete,Not employed
+S010,Face-to-face,84.1,7.4,,Completed,Part-time
+S011,Face-to-face,85.0,9.3,34.8,Did not complete,Part-time
+S012,Face-to-face,93.8,8.9,32.8,Completed,Not employed
+S013,Face-to-face,81.3,4.2,19.6,Did not complete,Not employed
+S014,Hybrid,87.4,9.3,35.4,Completed,Part-time
+S015,Face-to-face,83.7,10.1,34.0,Did not complete,Not employed
+S016,Face-to-face,70.8,7.6,33.2,Did not complete,Part-time
+S017,Online,75.5,7.3,25.4,Completed,Part-time
+S018,Online,83.3,7.7,33.3,Did not complete,Part-time
+S019,Face-to-face,81.1,8.5,29.7,Did not complete,Not employed
+S020,Face-to-face,77.6,5.3,33.7,Completed,Part-time
+S021,Online,71.7,2.1,25.4,Did not complete,Not employed
+S022,Hybrid,91.6,10.0,30.6,Completed,Not employed
+S023,Face-to-face,93.1,12.1,23.2,Did not complete,Not employed
+S024,Online,85.3,6.2,25.4,Completed,Not employed
+S025,Online,69.3,7.0,38.1,Did not complete,Full-time
+S026,Hybrid,95.2,12.2,34.4,Completed,Part-time
+S027,Online,66.9,8.1,23.9,Did not complete,Not employed
+S028,Hybrid,,10.1,28.5,Did not complete,Part-time
+S029,Face-to-face,,10.9,25.8,Did not complete,Part-time
+S030,Face-to-face,85.3,5.3,18.0,Completed,Not employed
+S031,Face-to-face,92.9,9.4,25.7,,Not employed
+S032,Face-to-face,91.5,,37.5,Did not complete,Not employed
+S033,Online,69.6,5.8,29.2,Did not complete,Part-time
+S034,Hybrid,80.9,7.8,27.9,Did not complete,Not employed
+S035,Face-to-face,78.0,5.8,30.4,Completed,Part-time
+S036,Face-to-face,75.2,5.5,32.6,Completed,Full-time
+S037,Online,72.1,4.1,,Did not complete,Part-time
+S038,Online,73.9,6.7,34.7,Completed,Not employed
+S039,Face-to-face,74.1,5.1,,Did not complete,Not employed
+S040,Online,88.7,8.8,,Did not complete,Part-time
+S041,Face-to-face,94.9,10.4,39.0,Did not complete,Not employed
+S042,Hybrid,91.3,10.7,22.5,Did not complete,Not employed
+S043,Face-to-face,76.1,,27.8,Did not complete,Part-time
+S044,Hybrid,83.9,,29.2,Completed,Full-time
+S045,Face-to-face,75.2,8.3,24.1,Did not complete,Part-time
+S046,Face-to-face,86.2,8.0,25.1,Completed,Part-time
+S047,Face-to-face,82.1,9.4,32.5,Did not complete,Part-time
+S048,Face-to-face,80.0,3.5,25.0,Completed,Not employed
+S049,Hybrid,87.7,7.0,28.3,Did not complete,Part-time
+S050,Hybrid,81.6,3.6,36.4,Completed,Not employed
+S051,Hybrid,84.9,6.7,33.8,Completed,Not employed
+S052,Face-to-face,83.0,,33.9,Did not complete,Part-time
+S053,Face-to-face,,10.1,39.7,Completed,Not employed
+S054,Online,85.5,7.4,27.9,Did not complete,Not employed
+S055,Hybrid,92.9,,27.8,,Part-time
+S056,Face-to-face,93.8,8.7,31.3,Completed,Part-time
+S057,Online,80.8,8.8,29.8,Did not complete,Part-time
+S058,Face-to-face,71.3,2.5,30.1,Completed,Part-time
+S059,Online,80.8,4.2,30.5,Did not complete,Not employed
+S060,Online,74.2,3.8,27.6,Did not complete,Part-time
+S061,Face-to-face,77.0,,,Did not complete,Not employed
+S062,Face-to-face,75.9,7.9,24.4,Did not complete,Full-time
+S063,Online,85.3,8.5,34.7,Completed,Part-time
+S064,Face-to-face,76.0,10.9,29.9,Completed,Not employed
+S065,Online,73.9,5.8,32.1,Completed,Not employed
+S066,Hybrid,100.0,13.2,40.0,Completed,Full-time
+S067,Online,75.0,5.7,25.6,Did not complete,Part-time
+S068,Hybrid,90.6,6.0,20.4,Did not complete,Not employed
+S069,Face-to-face,91.8,9.3,23.8,Completed,Not employed
+S070,Online,77.2,7.1,29.2,,Not employed
+S071,Hybrid,81.6,7.2,27.6,Did not complete,Full-time
+S072,Online,83.9,9.8,29.7,Completed,Not employed
+S073,Hybrid,,6.3,20.3,Did not complete,Not employed
+S074,Online,78.6,7.4,26.0,Completed,Not employed
+S075,Hybrid,83.5,10.8,31.2,Completed,Part-time
+S076,Hybrid,82.5,11.9,29.1,Completed,Not employed
+S077,Online,82.9,10.4,30.5,Did not complete,Not employed
+S078,Online,86.2,8.8,29.8,Did not complete,Not employed
+S079,Face-to-face,71.1,8.1,30.2,Completed,Part-time
+S080,Face-to-face,79.6,7.7,24.7,Completed,Not employed
+S081,Online,90.6,7.6,28.7,,Full-time
+S082,Online,71.7,5.8,32.6,Did not complete,Not employed
+S083,Hybrid,70.0,,23.7,Completed,Not employed
+S084,Face-to-face,83.0,9.9,,Completed,Not employed
+S085,Face-to-face,80.1,6.3,24.0,Did not complete,Part-time
+S086,Face-to-face,81.2,8.5,37.0,Completed,Not employed
+S087,Face-to-face,75.7,,23.7,Did not complete,Full-time
+S088,Face-to-face,87.5,8.1,34.0,Completed,Not employed
+S089,Online,68.8,7.3,27.3,Did not complete,Full-time
+S090,Face-to-face,77.4,7.4,29.9,Did not complete,Full-time
+S091,Hybrid,92.3,9.1,33.7,Completed,Part-time
+S092,Hybrid,99.0,10.7,31.8,Completed,Part-time
+S093,Online,78.9,10.0,19.8,Did not complete,Full-time
+S094,Online,76.8,7.5,28.0,Did not complete,Full-time
+S095,Online,81.2,7.8,28.7,Completed,Part-time
+S096,Online,70.6,4.4,23.1,Did not complete,Part-time
+S097,Hybrid,87.8,12.5,35.5,Did not complete,Part-time
+S098,Online,72.7,5.6,29.3,Did not complete,Not employed
+S099,Online,90.7,8.4,32.8,Completed,Not employed
+S100,Hybrid,76.0,4.6,26.7,Did not complete,Full-time
+S101,Face-to-face,79.7,8.6,22.5,Did not complete,Not employed
+S102,Face-to-face,75.4,6.5,28.5,Did not complete,Part-time
+S103,Online,67.3,5.8,24.6,Did not complete,Not employed
+S104,Face-to-face,78.7,7.1,26.6,Did not complete,Full-time
+S105,Hybrid,82.5,6.4,28.0,Did not complete,Not employed
+S106,Online,83.6,9.8,24.1,Completed,Part-time
+S107,Online,87.4,6.8,30.8,Completed,Not employed
+S108,Face-to-face,80.0,7.4,17.6,Did not complete,Full-time
+S109,Face-to-face,94.3,9.6,23.2,Completed,Full-time
+S110,Hybrid,,7.5,28.8,Completed,Part-time
+S111,Hybrid,80.0,3.4,26.6,Did not complete,Part-time
+S112,Online,91.8,9.1,40.0,Completed,Full-time
+S113,Online,79.6,6.7,37.7,Completed,Part-time
+S114,Online,87.5,8.9,25.5,Completed,Not employed
+S115,Face-to-face,80.0,7.1,21.1,Did not complete,Not employed
+S116,Face-to-face,77.5,8.3,,Completed,Not employed
+S117,Hybrid,80.5,,27.5,Did not complete,Part-time
+S118,Face-to-face,82.5,5.4,28.1,Completed,Part-time
+S119,Face-to-face,76.5,5.4,23.9,Completed,Full-time
+S120,Online,81.0,9.7,,Did not complete,Part-time

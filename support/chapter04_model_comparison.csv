@@ -1,0 +1,21 @@
+method,parameter,estimate,standard_error,ci_low,ci_high,analysis_n
+Complete reference data,const,48.334,4.706,39.063,57.605,240
+Complete reference data,study_hours,1.41,0.137,1.14,1.68,240
+Complete reference data,prior_gpa,5.249,1.08,3.122,7.376,240
+Complete reference data,self_efficacy,0.251,0.109,0.037,0.465,240
+Complete reference data,age,0.061,0.077,-0.091,0.212,240
+Complete-case analysis,const,47.572,5.111,37.489,57.656,189
+Complete-case analysis,study_hours,1.53,0.152,1.231,1.83,189
+Complete-case analysis,prior_gpa,5.213,1.137,2.969,7.456,189
+Complete-case analysis,self_efficacy,0.351,0.114,0.126,0.576,189
+Complete-case analysis,age,-0.005,0.083,-0.169,0.158,189
+"Multiple imputation, MAR",const,48.559,5.132,38.477,58.641,240
+"Delta sensitivity, -3 outcome points",const,48.126,5.167,37.999,58.253,240
+"Multiple imputation, MAR",study_hours,1.315,0.153,1.015,1.614,240
+"Delta sensitivity, -3 outcome points",study_hours,1.338,0.153,1.037,1.639,240
+"Multiple imputation, MAR",prior_gpa,4.479,1.099,2.323,6.635,240
+"Delta sensitivity, -3 outcome points",prior_gpa,4.495,1.106,2.326,6.663,240
+"Multiple imputation, MAR",self_efficacy,0.401,0.12,0.164,0.638,240
+"Delta sensitivity, -3 outcome points",self_efficacy,0.404,0.121,0.167,0.641,240
+"Multiple imputation, MAR",age,0.031,0.083,-0.133,0.195,240
+"Delta sensitivity, -3 outcome points",age,0.03,0.084,-0.135,0.194,240

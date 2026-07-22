@@ -1,0 +1,5 @@
+method,estimate,standard_error,df,statistic,p_value,ci_low,ci_high
+Welch t test,5.73107,1.7539,177.92739,3.26762,0.0013,2.26996,9.19219
+Pooled-variance t test,5.73107,1.76248,178.0,3.25171,0.00137,2.25303,9.20912
+Mann-Whitney U,,,,5156.5,0.00142,,
+Permutation mean-difference test,5.73107,1.81952,,5.73107,0.0012,,

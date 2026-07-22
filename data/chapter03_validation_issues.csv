@@ -1,0 +1,55 @@
+student_id,variable,issue
+S021,entry_date,Invalid or unparseable date
+S061,entry_date,Invalid or unparseable date
+S139,entry_date,Invalid or unparseable date
+S039,age,Missing or outside 18-75
+S094,age,Missing or outside 18-75
+S113,age,Missing or outside 18-75
+S122,age,Missing or outside 18-75
+S129,age,Missing or outside 18-75
+S135,age,Missing or outside 18-75
+S004,instructional_format,Unrecognised category
+S095,instructional_format,Unrecognised category
+S125,instructional_format,Unrecognised category
+S003,study_hours,Missing or outside 0-112
+S050,study_hours,Missing or outside 0-112
+S068,study_hours,Missing or outside 0-112
+S078,study_hours,Missing or outside 0-112
+S091,study_hours,Missing or outside 0-112
+S120,study_hours,Missing or outside 0-112
+S137,study_hours,Missing or outside 0-112
+S064,exam_score,Missing or outside 0-100
+S079,exam_score,Missing or outside 0-100
+S081,exam_score,Missing or outside 0-100
+S087,exam_score,Missing or outside 0-100
+S106,exam_score,Missing or outside 0-100
+S142,exam_score,Missing or outside 0-100
+S052,completion_status,Unrecognised category
+S060,completion_status,Unrecognised category
+S117,completion_status,Unrecognised category
+S147,completion_status,Unrecognised category
+S019,item1,Missing or outside 1-5
+S067,item1,Missing or outside 1-5
+S090,item1,Missing or outside 1-5
+S096,item1,Missing or outside 1-5
+S102,item1,Missing or outside 1-5
+S002,item2,Missing or outside 1-5
+S066,item2,Missing or outside 1-5
+S128,item2,Missing or outside 1-5
+S134,item2,Missing or outside 1-5
+S141,item2,Missing or outside 1-5
+S005,item3,Missing or outside 1-5
+S042,item3,Missing or outside 1-5
+S058,item3,Missing or outside 1-5
+S098,item3,Missing or outside 1-5
+S116,item3,Missing or outside 1-5
+S028,item4,Missing or outside 1-5
+S042,item4,Missing or outside 1-5
+S071,item4,Missing or outside 1-5
+S089,item4,Missing or outside 1-5
+S103,item4,Missing or outside 1-5
+S012,item5,Missing or outside 1-5
+S025,item5,Missing or outside 1-5
+S114,item5,Missing or outside 1-5
+S140,item5,Missing or outside 1-5
+S146,item5,Missing or outside 1-5

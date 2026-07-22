@@ -1,0 +1,5 @@
+effect,estimate,ci_low,ci_high
+Raw mean difference,5.73107,2.26996,9.19219
+Cohen d,0.48522,,
+Hedges g,0.48317,0.18764,0.7787
+"Glass delta, standard group SD",0.51537,,

@@ -1,0 +1,7 @@
+measure,estimate,ci_low,ci_high
+Risk in academic-support group,0.5,,
+Risk in control group,0.2065,,
+Risk difference,0.2935,0.1629,0.4241
+Risk ratio,2.4211,1.5458,3.7919
+Odds ratio,3.8421,2.0123,7.3358
+Number needed to treat,3.4074,,

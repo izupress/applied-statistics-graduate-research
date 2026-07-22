@@ -1,0 +1,18 @@
+{
+  "raw_rows": 155,
+  "unique_ids": 150,
+  "duplicate_extra_rows": 5,
+  "rows_after_versioning": 150,
+  "no_consent": 4,
+  "unknown_consent": 0,
+  "final_rows": 146,
+  "validation_counts": {
+    "Invalid entry date": 3,
+    "Invalid age": 6,
+    "Unrecognised instructional format": 3,
+    "Invalid study hours": 7,
+    "Invalid examination score": 6,
+    "Unrecognised completion status": 4,
+    "Scale score unavailable": 1
+  }
+}

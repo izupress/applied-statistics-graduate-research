@@ -1,0 +1,6 @@
+variable,observed_n,missing_n,missing_pct
+age,240,0,0.0
+prior_gpa,231,9,3.8
+study_hours,224,16,6.7
+self_efficacy,221,19,7.9
+exam_score,228,12,5.0

@@ -1,0 +1,8 @@
+validation_rule,records_flagged
+Invalid entry date,3
+Invalid age,6
+Unrecognised instructional format,3
+Invalid study hours,7
+Invalid examination score,6
+Unrecognised completion status,4
+Scale score unavailable,1

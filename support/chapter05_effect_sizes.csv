@@ -1,0 +1,4 @@
+effect_size,estimate,ci_low,ci_high
+Raw mean difference,5.5735,2.148,8.9989
+Cohen d,0.4709,,
+Hedges g,0.469,0.1787,0.7592

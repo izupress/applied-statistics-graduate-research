@@ -1,0 +1,156 @@
+student_id,record_version,entry_date,age,gender,instructional_format,study_hours,item1,item2,item3,item4,item5,exam_score,completion_status,consent
+S076,1,2026-03-05,37,female,online ,8.9,3,1,5,3,4,82.2, complete ,Y
+S111,2,2026-03-11,37,Female,Face-to-face,7.0,3,3,2,3,3,83.4,Completed,Yes
+S070,1,2026-03-14,45,male,online ,9.0,3,3,2,3,3,81.1,Completed, yes 
+S131,1,2026-03-07,25,WOMAN,Face-to-face,9.3,2,3,3,3,4,86.3,not completed,Y
+S083,1,2026-02-12,39, Female ,face to face,7.3,3,4,4,3,3,79.4, complete , yes 
+ s053 ,1,2026/02/12,44,M,Online,9.2,3,4,2,4,3,82.9,Y,1
+S040,1,2026/03/02,20, Male ,Remote,11.0,2,2,3,2,2,82.0,Did not complete,1
+S037,1,2026/02/09,24,Nonbinary, Hybrid ,3.3,4,4,2,2,2,75.6,not completed,Y
+S093,1,2026-02-16,24,female, FACE-TO-FACE ,6.9,2,1,4,1,2,86.5,Did not complete, yes 
+ s112 ,1,2026-03-07,38,M,ONLINE,10.9,3,3,3,3,2,80.3,Completed,Yes
+S145,1,2026/03/13,27,male,Remote,4.4,4,5,2,4,1,69.4,0,1
+S150,1,2026/02/25,38, Female ,hybrid,6.8,3,3,4,3,3,81.1, complete ,Yes
+S059,1,2026-03-03,28,F, Hybrid ,3.9,4,4,2,2,3,72.6,Did not complete,1
+S064,1,2026/02/19,24,MAN,face to face,8.9,3,3,2,3,3,unknown,N,Yes
+S045,1,2026-02-25,20,F,face to face,2.9,1,3,4,2,5,69.5,1,1
+S146,1,2026-02-22,41,WOMAN,Online,4.0,3,2,3,3,99,86.9,Completed,Y
+S130,1,2026/02/04,38,M, Hybrid ,7.5,3,5,2,5,2,86.7,not completed,1
+S042,1,2026-03-02,42, Female , FACE-TO-FACE ,13.0,3,2,unknown,99,3,88.1,1,Yes
+S043,1,2026-02-15,24, Female , FACE-TO-FACE ,6.9,1,2,5,1,5,76.2,not completed, yes 
+S121,1,2026-02-02,20,MAN, Hybrid ,6.2,4,4,2,4,1,79.0,0,Yes
+S119,2,2026-02-16,32,Female,Face-to-face,10.2,3,4,1,4,3,86.0,Did not complete,Yes
+S111,1,2026/03/11,37,WOMAN, FACE-TO-FACE ,7.0,3,3,2,3,3,101, complete , yes 
+ s022 ,1,2026/03/14,40,MAN,hybrid,8.4,2,2,3,3,4,82.3,Did not complete,Y
+S077,1,2026/02/13,43, Female , FACE-TO-FACE ,7.5,2,4,2,4,3,82.7,Y, yes 
+S069,2,2026-03-17,36,Male,Online,4.9,1,2,5,1,3,59.9,Did not complete,Yes
+S031,1,2026/02/12,20,WOMAN, FACE-TO-FACE ,8.0,4,2,2,4,3,76.3,0,1
+ s048 ,1,2026-02-06,33,F,face to face,8.1,4,5,1,5,2,74.8,0, yes 
+S087,1,2026/02/24,26, Male ,hybrid,7.1,2,2,4,4,3,999,Y, yes 
+S066,1,2026/02/20,35,M,Remote,9.9,2,9,4,2,4,78.8,Did not complete,1
+S140,1,2026-03-12,29, Male ,Remote,6.7,2,3,4,3,,71.3,N,1
+S035,1,2026/02/10,39,M,Online,12.8,4,3,4,4,3,88.6, complete ,Y
+S122,1,2026-03-16,-2,male,ONLINE,11.1,2,3,4,3,3,79.9, complete ,Yes
+S050,1,2026/02/24,20, Female ,ONLINE,180,3,5,1,5,2,85.6,N,Yes
+ s099 ,1,2026/03/05,25,male,Face-to-face,5.3,1,2,4,2,4,71.9,0,Yes
+S106,1,2026/03/13,45,WOMAN, Hybrid ,3.3,4,2,2,4,3,-5,N,Yes
+S081,1,2026-02-20,40, Female ,F2F,3.5,4,4,4,2,5,105,not completed,1
+S089,1,2026/02/20,36,F, Hybrid ,11.8,2,1,5,unknown,5,87.5,Did not complete,Y
+S012,1,2026/02/09,43, Female ,face to face,8.2,3,3,2,2,unknown,84.6,Completed, yes 
+S092,1,2026/03/09,44, Male ,online ,11.1,2,3,4,2,3,86.8,Y, yes 
+S091,1,2026-02-16,24,female, FACE-TO-FACE ,unknown,3,4,1,4,3,86.7,Y, yes 
+S100,1,2026-02-19,20,F, Hybrid ,10.2,4,2,4,4,2,76.4,0, yes 
+S001,1,2026-03-13,30,female,F2F,9.4,3,2,2,2,4,73.0,0,Yes
+S018,1,2026-02-25,35,F, Hybrid ,4.9,5,5,1,5,2,91.0,Completed, yes 
+ s051 ,1,2026-03-05,46,prefer not to say,Remote,8.1,2,1,5,2,5,78.0,Completed,Y
+S124,1,2026-02-03,50, Female ,face to face,9.1,3,4,3,3,2,91.5, complete ,Yes
+S030,1,2026-03-06,39, Female ,Online,6.4,3,2,4,3,3,65.1,N, yes 
+S056,1,2026/03/08,20,WOMAN,Face-to-face,7.5,4,5,1,5,1,92.7,not completed,1
+S038,2,2026-02-13,29,Female,Hybrid,7.1,4,5,2,4,1,82.0,Completed,Yes
+S006,1,2026-02-02,29,WOMAN,ONLINE,5.0,4,2,2,5,3,75.1,1, yes 
+S025,1,2026/03/11,35, Female ,Remote,5.1,4,5,3,4, ,72.3,Did not complete,1
+S015,1,2026-02-15,25,F,Remote,12.2,3,3,2,4,3,87.7,N,1
+S090,1,2026-02-16,25,WOMAN,Remote,5.7,99,4,3,3,3,58.0,0,Y
+S028,1,2026-02-23,39,male,Face-to-face,10.2,3,3,4, ,2,75.7,Completed, yes 
+S017,1,2026-03-14,42, Female , FACE-TO-FACE ,10.7,3,3,3,4,3,85.9,1,Yes
+S148,1,2026/02/12,20, Female ,hybrid,5.1,2,3,4,3,4,79.7,not completed,1
+S014,1,2026/03/10,26, Female ,F2F,4.5,4,4,2,4,2,73.6,0,Yes
+S107,1,2026-03-11,31, Female ,Online,7.9,4,4,3,3,2,72.9,1, yes 
+S118,1,2026-02-15,20,F, Hybrid ,7.4,1,2,4,2,4,67.2,0,Yes
+ s039 ,1,2026-02-01,999,M, FACE-TO-FACE ,4.2,4,4,2,3,1,83.5,N,1
+S125,1,2026-02-23,23,M,Unknown,6.9,4,5,2,5,2,76.8,N,Y
+ s120 ,1,2026/02/02,34,WOMAN,F2F,-3,3,4,2,5,2,77.3,Y,Y
+S079,1,2026/03/08,33, Female ,F2F,5.1,4,1,4,1,3, ,N, yes 
+S061,1,2026-13-05,27,F,HYB,9.1,3,3,2,3,2,84.8,Y,1
+S074,1,2026/02/27,39,male,Online,7.5,3,1,4,2,4,75.7,1, yes 
+S021,1,2026/02/30,35,male,face to face,12.2,3,4,3,3,4,79.9,N, yes 
+S109,1,2026-02-10,20, Male ,face to face,4.5,4,2,3,3,4,66.6,Completed,Yes
+S071,1,2026/03/15,42, Male ,Remote,5.2,3,3,3,9,4,80.3,Did not complete,1
+S080,1,2026-02-09,29,MAN,Online,6.3,3,3,3,1,3,70.2,Did not complete, yes 
+S115,1,2026/03/10,26, Female ,ONLINE,5.9,3,3,2,4,4,68.2,Did not complete,1
+S008,1,2026/02/26,50, Female ,F2F,7.8,3,2,5,2,4,74.9,not completed,Y
+S063,1,2026/03/12,25,WOMAN,online ,6.9,3,3,3,4,1,77.6,Did not complete,Y
+S068,1,2026-02-23,32,female,HYB, ,2,4,2,2,4,79.9,N,Yes
+S137,1,2026-02-11,31,female, FACE-TO-FACE ,-1,1,3,3,3,4,80.7,0,Yes
+S020,1,2026-02-14,32,M,Remote,9.4,2,2,3,2,4,65.0,1,Y
+S034,1,2026/02/14,43,male,hybrid,8.8,2,3,4,2,4,86.1,Y, yes 
+ s095 ,1,2026-03-14,40,MAN,Weekend,14.1,1,1,3,2,3,81.3,1,Yes
+S011,1,2026/03/01,30,prefer not to say,F2F,13.9,3,4,3,3,3,93.3,1,Yes
+S086,1,2026-03-04,26, Male ,Online,12.1,1,3,2,2,3,74.1,N,N
+S094,1,2026-03-06,,female,HYB,8.7,2,2,5,2,4,74.3,Completed, yes 
+S019,1,2026-03-11,43,male,Remote,6.4,,3,1,4,3,78.5,0,Y
+S142,1,2026-02-13,38,MAN,hybrid,12.3,2,3,2,2,3,,not completed,Yes
+S103,1,2026/02/14,31,PNS,Face-to-face,6.1,4,4,2,,3,76.9,Y,1
+ s082 ,1,2026-02-27,35,female,F2F,1.2,2,2,3,2,3,80.9,Did not complete,1
+S047,1,2026/03/08,32,male,Online,10.0,2,4,4,3,3,86.7,Y,Y
+S024,1,2026-02-07,20, Male ,face to face,5.2,2,3,4,2,3,57.5,N,Y
+ s057 ,1,2026/03/07,27, Female ,online ,11.6,3,2,2,2,3,82.1,0,Y
+S010,1,2026/03/12,37, Male ,online ,7.3,2,1,3,1,5,77.2,Y,N
+S013,1,2026-02-14,36, Female ,Remote,4.0,2,3,2,3,3,69.4,Did not complete, yes 
+S078,1,2026-02-22,36,female,HYB,120,3,2,3,2,4,80.4,not completed, yes 
+ s033 ,1,2026-02-01,44,female,Online,13.1,3,2,5,1,3,90.3,not completed, yes 
+S147,1,2026-02-16,33,F,Face-to-face,12.1,2,2,5,3,3,84.0,pending,Y
+S098,1,2026-03-08,32, Female ,Online,8.3,4,3,99,2,4,80.1,1,Yes
+S129,1,2026-02-23,unknown,F,F2F,5.0,1,1,5,1,5,73.1,0,Yes
+S132,1,2026/03/04,40,WOMAN, FACE-TO-FACE ,7.1,3,4,4,3,4,81.0,0,1
+S029,1,2026-02-16,38, Female , Hybrid ,9.9,3,3,3,3,3,88.0,not completed, yes 
+S108,1,2026-02-07,20, Female ,Online,6.7,3,3,2,4,3,77.4,0,1
+S067,1,2026/03/13,28,F,Face-to-face,11.5, ,2,4,4,3,81.9,0,Yes
+S023,2,2026-02-08,34,Female,Hybrid,4.8,2,2,4,2,3,82.2,Completed,Yes
+S036,1,2026-03-03,20,MAN,hybrid,11.7,3,3,2,4,3,82.2,Did not complete,1
+S073,1,2026/02/21,34,MAN, Hybrid ,1.0,5,5,1,5,1,87.5,1, yes 
+ s055 ,1,2026-02-10,38,male,Online,5.5,3,4,2,3,1,71.3,N,Y
+S046,1,2026/03/04,27,F,online ,8.7,3,2,4,3,3,76.8,Did not complete, yes 
+S054,1,2026-02-19,35, Female , FACE-TO-FACE ,5.9,2,1,4,3,3,65.8,Did not complete,Yes
+S134,1,2026-02-21,39,prefer not to say, Hybrid ,11.7,2, ,1,3,2,87.9,Did not complete,Yes
+S136,1,2026-02-08,44,WOMAN,HYB,7.7,2,4,2,4,2,82.2, complete ,Yes
+S002,1,2026-03-05,24,WOMAN,ONLINE,7.0,3,unknown,2,4,2,73.6,N,Yes
+S149,1,2026-03-09,47,WOMAN,Face-to-face,6.5,4,2,1,4,2,80.1,Completed, yes 
+S060,1,2026-03-11,31, Male ,F2F,5.0,3,3,3,2,3,75.5,Unknown, yes 
+S075,1,2026/02/06,28,MAN,ONLINE,6.3,1,1,5,2,5,81.0,N,1
+S105,1,2026/03/04,31,WOMAN, FACE-TO-FACE ,4.5,5,4,1,4,2,74.5,not completed,Y
+S104,1,2026/03/08,26,F,hybrid,8.7,3,4,2,4,1,93.0,Did not complete,Yes
+S144,1,2026/02/14,20,WOMAN,online ,9.7,3,5,3,4,4,82.6, complete , yes 
+S038,1,2026/02/13,29,WOMAN,hybrid,7.1,4,5,2,4,1,82.0, complete ,1
+S023,1,2026-02-08,34,F,hybrid,4.8,2,2,4,2,3,82.2,1,Y
+S069,1,2026-03-17,36, Male ,Remote,,1,2,5,1,3,59.9,Did not complete, yes 
+S135,1,2026/03/16,17,MAN,face to face,4.8,2,3,5,2,5,74.7,1,Y
+S009,1,2026/02/25,30, Male ,online ,7.4,3,2,4,3,4,84.6,not completed,1
+S062,1,2026/03/09,36,WOMAN,face to face,8.4,1,3,4,2,3,76.7,N,Yes
+S003,1,2026/02/16,27,M,hybrid,999,4,4,3,3,3,86.4,Did not complete,Yes
+S138,1,2026/03/17,29, Female , FACE-TO-FACE ,4.4,3,3,2,3,3,76.9,not completed,Y
+S126,1,2026-02-23,33,male,Online,9.1,4,4,1,3,2,91.9,Did not complete, yes 
+S041,1,2026/03/07,20,male,ONLINE,11.6,1,1,4,1,3,65.4,Did not complete, yes 
+S049,1,2026/03/06,33, Female ,face to face,12.4,3,2,3,2,3,86.8,not completed,1
+S065,1,2026-02-28,40,female, FACE-TO-FACE ,11.2,3,2,3,4,3,89.3,1,Y
+ s004 ,1,2026-02-13,33,WOMAN,,4.3,3,3,3,3,4,64.5,not completed,Yes
+ s139 ,1,,27,WOMAN,Remote,8.9,3,2,2,2,3,77.6,N,1
+S123,1,2026/02/08,22,MAN,Remote,8.0,3,3,2,4,2,85.9,Did not complete,Yes
+S072,1,2026-03-06,25,male,online ,5.2,1,1,5,2,4,70.0,0,Y
+S005,1,2026/02/11,37,MAN,face to face,9.0,4,5, ,4,1,87.5, complete ,0
+S114,1,2026/02/07,35, Male ,hybrid,11.9,3,2,4,2,9,89.9,1,1
+S102,1,2026-03-11,31,F,hybrid,11.3,unknown,2,3,1,4,84.1,0,1
+S007,1,2026/02/17,20,male,Online,9.8,2,4,3,3,1,78.7,Did not complete,1
+ s141 ,1,2026-03-17,42,female,hybrid,11.9,3,99,4,2,3,89.3, complete ,1
+S088,1,2026-02-03,39, Male ,F2F,13.8,3,3,4,3,2,92.5,1,1
+S133,1,2026/03/09,26,WOMAN,HYB,6.1,3,3,3,3,4,77.4,N,Y
+S084,1,2026/02/28,30, Female ,online ,4.7,2,2,4,1,4,75.3,N,Y
+S052,1,2026-02-02,45,MAN,Face-to-face,5.0,3,4,3,2,2,84.5, ,1
+S097,1,2026-03-05,44, Female ,ONLINE,5.3,4,3,1,5,3,84.2,N,1
+S044,1,2026/02/25,45,MAN,online ,8.5,4,4,2,5,4,86.7,Did not complete,Y
+S143,1,2026/02/02,33,F,face to face,8.5,5,5,3,4,1,90.4,not completed,Y
+S096,1,2026-02-21,46,NB,Face-to-face,11.3,9,1,4,1,5,68.6,N,Yes
+S127,1,2026/02/14,20, Female ,ONLINE,13.9,3,3,3,3,3,90.6,not completed,1
+S113,1,2026-02-01, , Male ,ONLINE,14.1,3,2,1,3,4,76.9,0,1
+S116,1,2026/03/16,39, Male ,face to face,1.9,5,4,9,4,3,61.3,N,Y
+S110,1,2026-02-21,26,male,Remote,6.0,3,4,3,3,2,71.1,Did not complete,1
+S085,1,2026-02-02,27,female,HYB,2.9,3,2,2,4,4,72.9,Did not complete, yes 
+S128,1,2026-03-10,28,male,Remote,14.4,4,,2,4,2,86.0,0,Yes
+S027,1,2026-03-10,31,MAN,Face-to-face,8.7,5,3,3,3,2,82.5,not completed,Y
+S026,1,2026/02/17,27,female,HYB,10.8,4,3,3,2,3,89.1,0,1
+S117,1,2026-02-18,22, Female ,ONLINE,10.5,2,2,3,2,3,63.3,,1
+ s119 ,1,2026-02-16,83,female,face to face,10.2,3,4,1,4,3,86.0,N, yes 
+S016,1,2026-02-04,30, Male ,F2F,7.2,3,4,3,1,3,67.3,Did not complete,N
+S058,1,2026-02-01,28,F,face to face,7.9,2,1,,1,5,79.9,not completed,1
+S032,1,2026-03-16,33,WOMAN,HYB,7.1,4,5,1,3,2,75.1,Did not complete,1
+S101,1,2026-02-16,38,F,ONLINE,10.0,3,3,3,3,3,80.5,Did not complete,Y

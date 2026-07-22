@@ -1,0 +1,4 @@
+measure,estimate,ci_low,ci_high
+Risk difference,0.24369,0.10689,0.38049
+Risk ratio,1.47631,1.16551,1.86998
+Odds ratio,2.94664,1.56562,5.54585

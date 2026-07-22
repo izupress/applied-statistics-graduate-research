@@ -1,0 +1,7 @@
+effect,average_marginal_effect,interpretation
+prior_score,0.005339791544926877,Average absolute probability change for a one-unit predictor increase
+study_hours,0.04451139643664222,Average absolute probability change for a one-unit predictor increase
+self_efficacy,0.0027574740782909677,Average absolute probability change for a one-unit predictor increase
+Hybrid versus Face-to-face,0.10085914196005032,Average discrete probability difference
+Online versus Face-to-face,-0.12306486467156771,Average discrete probability difference
+Full-time versus Not employed,-0.04225865669728669,Average discrete probability difference

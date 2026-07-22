@@ -1,0 +1,2 @@
+n_subjects,n_measurements,ms_subject,ms_measurement,ms_error,icc_absolute_single,icc_absolute_average,icc_consistency_single,icc_bootstrap_ci_low,icc_bootstrap_ci_high,mean_rater_1,mean_rater_2,mean_rater_3
+90,3,16.373116937161882,12.492592592592565,1.2866000832292965,0.7808816687344914,0.914465818110272,0.796277016341592,0.6966911032846755,0.8363008031105774,13.4,13.744444444444444,13.0

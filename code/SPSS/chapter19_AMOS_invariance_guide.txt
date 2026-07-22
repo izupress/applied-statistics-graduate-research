@@ -1,0 +1,42 @@
+CHAPTER 19 AMOS MEASUREMENT-INVARIANCE GUIDE
+
+Data file
+  Open data/chapter19_invariance_data.sav.
+  Use programme_n as the grouping variable: 1 = Masters, 2 = Doctoral.
+
+Common model
+  Define one latent factor measured by q1 through q9.
+  Include an intercept and residual term for every indicator.
+  Estimate means and intercepts. Use Masters as the reference group.
+
+Model sequence
+  1. Configural: same factor pattern; all loadings, intercepts, and
+     residual variances free across groups.
+  2. Metric: assign identical labels to corresponding loadings.
+  3. Scalar: retain loading labels and assign identical labels to all
+     corresponding indicator intercepts.
+  4. Partial scalar: remove equality labels from q4 and q9 intercepts.
+  5. Partial strict: retain partial-scalar constraints and assign equal
+     labels to corresponding residual variances.
+  6. Equal latent variance: additionally constrain the Doctoral factor
+     variance to the Masters factor variance.
+  7. Equal latent mean: additionally constrain the Doctoral factor mean
+     to zero.
+
+Identification
+  In the configural model, fix each group factor variance to one and
+  estimate every loading. From the metric model onward, fix the Masters
+  factor variance to one, estimate the Doctoral factor variance, and use
+  equal loading labels. Fix the Masters factor mean to zero. Estimate the
+  Doctoral factor mean only after scalar or partial-scalar invariance.
+
+Requested output
+  Chi-square, df, CFI, TLI, RMSEA with 90% CI, SRMR, AIC, modification
+  indices, standardised estimates, residual moments, and nested-model
+  comparisons. Save every model under a distinct filename.
+
+Decision record
+  Compare exact chi-square differences together with changes in CFI,
+  RMSEA, and SRMR. The supplied data intentionally contain q4 and q9
+  intercept non-invariance. Free those parameters only in the documented
+  partial-scalar model and retain the other seven intercepts as anchors.

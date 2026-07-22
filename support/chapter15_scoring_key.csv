@@ -1,0 +1,4 @@
+raw_item,scored_item,rule,keying
+q4_R,q4,6 - q4_R,Reverse
+q9_R,q9,6 - q9_R,Reverse
+"q1, q2, q3, q5, q6, q7, q8",Same name,No reversal,Positive

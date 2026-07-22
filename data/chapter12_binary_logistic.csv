@@ -1,0 +1,431 @@
+student_id,instructional_format,employment_status,prior_score,study_hours,self_efficacy,completed
+B001,Face-to-face,Full-time,74.5,5.6,50.6,1
+B002,Face-to-face,Full-time,53.2,2.5,31.4,0
+B003,Hybrid,Part-time,71.9,11.5,45.0,0
+B004,Hybrid,Full-time,74.4,2.9,35.9,1
+B005,Hybrid,Part-time,86.6,12.8,54.1,1
+B006,Face-to-face,Part-time,56.9,5.4,43.8,0
+B007,Hybrid,Part-time,78.0,12.0,47.7,1
+B008,Face-to-face,Not employed,69.0,6.1,36.5,0
+B009,Online,Not employed,54.7,7.7,40.7,0
+B010,Hybrid,Part-time,68.9,6.4,47.4,1
+B011,Online,Part-time,68.3,3.7,41.5,1
+B012,Face-to-face,Part-time,66.8,6.4,33.3,1
+B013,Face-to-face,Full-time,70.0,6.2,35.7,1
+B014,Hybrid,Full-time,75.3,1.5,44.6,0
+B015,Face-to-face,Full-time,55.3,7.8,36.0,0
+B016,Hybrid,Part-time,47.8,5.0,26.9,0
+B017,Hybrid,Not employed,56.9,5.8,31.2,1
+B018,Face-to-face,Part-time,59.8,8.2,38.2,1
+B019,Online,Full-time,58.8,2.6,35.3,0
+B020,Online,Full-time,52.3,1.0,38.0,0
+B021,Online,Part-time,61.2,6.5,45.0,1
+B022,Hybrid,Full-time,64.1,5.9,55.0,0
+B023,Face-to-face,Part-time,65.7,5.4,46.4,1
+B024,Online,Not employed,68.5,10.2,48.7,1
+B025,Face-to-face,Full-time,61.4,5.7,46.0,1
+B026,Face-to-face,Part-time,68.6,6.4,44.3,1
+B027,Online,Not employed,67.3,7.8,46.9,1
+B028,Hybrid,Full-time,48.1,3.8,40.4,1
+B029,Face-to-face,Full-time,67.1,3.5,39.2,1
+B030,Face-to-face,Part-time,64.4,5.3,43.5,0
+B031,Hybrid,Not employed,71.8,7.9,55.0,1
+B032,Hybrid,Not employed,47.3,4.8,33.3,1
+B033,Face-to-face,Not employed,77.9,12.2,45.0,1
+B034,Hybrid,Not employed,56.2,7.9,31.3,1
+B035,Hybrid,Part-time,47.2,2.5,37.8,0
+B036,Online,Not employed,65.6,7.2,43.8,1
+B037,Online,Not employed,70.8,8.1,37.4,0
+B038,Face-to-face,Full-time,50.3,7.6,35.4,1
+B039,Online,Not employed,67.3,8.0,36.4,0
+B040,Hybrid,Not employed,55.7,8.3,40.1,0
+B041,Hybrid,Part-time,73.4,9.9,55.0,1
+B042,Face-to-face,Not employed,73.8,6.8,50.1,0
+B043,Face-to-face,Not employed,62.4,7.4,36.6,1
+B044,Online,Part-time,63.9,4.1,44.2,0
+B045,Face-to-face,Part-time,54.7,5.1,45.7,0
+B046,Hybrid,Full-time,61.3,4.8,40.0,0
+B047,Online,Part-time,67.0,2.9,35.8,1
+B048,Face-to-face,Not employed,69.0,9.2,42.1,0
+B049,Face-to-face,Not employed,64.2,9.6,50.5,0
+B050,Face-to-face,Not employed,69.6,6.9,35.0,1
+B051,Online,Full-time,74.0,7.1,45.8,0
+B052,Hybrid,Part-time,70.0,6.5,53.2,0
+B053,Hybrid,Not employed,84.8,9.3,55.0,1
+B054,Face-to-face,Not employed,43.6,8.2,43.7,0
+B055,Hybrid,Part-time,80.6,8.2,41.5,0
+B056,Face-to-face,Not employed,71.9,8.0,47.3,1
+B057,Hybrid,Full-time,58.6,1.9,32.3,1
+B058,Face-to-face,Part-time,58.7,3.5,40.4,1
+B059,Face-to-face,Full-time,83.7,4.2,48.1,1
+B060,Online,Not employed,68.8,5.2,38.9,1
+B061,Face-to-face,Full-time,68.3,3.4,50.2,1
+B062,Face-to-face,Part-time,73.7,9.6,47.8,1
+B063,Face-to-face,Not employed,58.4,6.0,49.2,1
+B064,Hybrid,Not employed,75.6,9.7,38.7,1
+B065,Hybrid,Part-time,58.7,6.4,44.3,1
+B066,Hybrid,Full-time,80.2,7.3,38.5,1
+B067,Face-to-face,Not employed,66.6,8.0,40.2,0
+B068,Face-to-face,Full-time,66.3,6.6,30.6,1
+B069,Hybrid,Full-time,77.3,5.7,45.8,1
+B070,Online,Not employed,51.4,7.4,32.9,1
+B071,Hybrid,Part-time,66.2,5.7,40.3,1
+B072,Hybrid,Not employed,70.9,4.7,45.1,1
+B073,Hybrid,Full-time,81.6,7.5,50.2,1
+B074,Online,Not employed,57.5,4.3,43.7,0
+B075,Online,Part-time,60.5,12.3,51.6,1
+B076,Face-to-face,Part-time,62.6,7.6,40.4,0
+B077,Hybrid,Part-time,66.1,7.6,46.6,1
+B078,Hybrid,Not employed,59.1,5.3,37.1,1
+B079,Hybrid,Full-time,53.1,3.7,37.9,1
+B080,Online,Not employed,92.0,9.6,55.0,1
+B081,Face-to-face,Full-time,78.0,5.6,39.1,0
+B082,Face-to-face,Not employed,69.0,10.7,53.6,1
+B083,Face-to-face,Part-time,61.7,2.9,44.0,1
+B084,Face-to-face,Part-time,48.4,5.8,31.2,1
+B085,Face-to-face,Not employed,76.3,8.7,46.0,1
+B086,Hybrid,Not employed,77.5,7.9,46.6,1
+B087,Hybrid,Full-time,59.3,4.4,34.9,1
+B088,Hybrid,Not employed,62.4,6.7,44.8,1
+B089,Face-to-face,Part-time,55.4,3.4,39.6,0
+B090,Face-to-face,Not employed,50.7,3.9,35.1,0
+B091,Face-to-face,Part-time,70.7,8.5,53.2,1
+B092,Online,Part-time,67.3,6.4,39.4,0
+B093,Hybrid,Full-time,71.3,6.3,51.9,1
+B094,Face-to-face,Part-time,64.4,4.5,40.4,1
+B095,Online,Not employed,87.7,11.3,53.4,1
+B096,Online,Not employed,69.2,8.1,47.3,1
+B097,Face-to-face,Full-time,58.5,4.5,36.0,0
+B098,Face-to-face,Not employed,81.0,7.6,49.4,1
+B099,Online,Full-time,59.6,2.9,52.9,1
+B100,Hybrid,Part-time,74.1,10.3,38.2,1
+B101,Face-to-face,Part-time,75.1,12.2,50.8,1
+B102,Face-to-face,Not employed,48.1,4.7,46.7,0
+B103,Online,Part-time,70.4,7.4,46.5,1
+B104,Hybrid,Full-time,74.5,4.0,38.1,0
+B105,Face-to-face,Full-time,61.9,6.7,44.4,1
+B106,Face-to-face,Full-time,65.8,8.5,46.5,1
+B107,Face-to-face,Full-time,77.9,8.4,48.5,1
+B108,Face-to-face,Part-time,72.0,9.7,47.9,1
+B109,Hybrid,Not employed,53.7,9.5,46.6,1
+B110,Hybrid,Full-time,70.5,4.3,33.8,0
+B111,Face-to-face,Part-time,52.4,3.1,36.5,1
+B112,Online,Not employed,56.8,3.6,41.3,0
+B113,Online,Part-time,60.7,3.7,42.0,0
+B114,Hybrid,Part-time,82.3,9.5,49.8,1
+B115,Face-to-face,Part-time,46.6,8.8,37.9,1
+B116,Online,Part-time,82.5,5.8,36.8,0
+B117,Hybrid,Not employed,74.4,10.1,43.6,1
+B118,Hybrid,Full-time,67.7,4.1,40.8,1
+B119,Hybrid,Not employed,66.3,5.3,43.5,0
+B120,Face-to-face,Not employed,35.0,7.6,29.0,1
+B121,Online,Part-time,66.9,5.6,36.2,0
+B122,Hybrid,Part-time,54.2,7.3,36.2,1
+B123,Online,Part-time,63.9,11.9,38.9,1
+B124,Face-to-face,Full-time,49.3,3.9,33.0,0
+B125,Online,Not employed,77.3,9.3,52.9,1
+B126,Online,Not employed,58.6,6.4,36.4,0
+B127,Face-to-face,Part-time,45.5,4.7,26.8,1
+B128,Online,Full-time,69.5,7.8,36.6,1
+B129,Hybrid,Part-time,82.9,8.1,53.1,1
+B130,Online,Part-time,61.6,9.4,40.8,1
+B131,Face-to-face,Full-time,75.8,9.6,54.1,1
+B132,Face-to-face,Part-time,65.0,4.9,46.8,0
+B133,Face-to-face,Part-time,64.8,7.1,36.0,1
+B134,Online,Part-time,66.3,2.2,45.0,0
+B135,Online,Part-time,63.0,5.9,44.2,0
+B136,Face-to-face,Not employed,66.2,6.4,46.7,1
+B137,Face-to-face,Full-time,57.3,8.6,36.1,0
+B138,Face-to-face,Not employed,71.6,6.9,42.1,1
+B139,Hybrid,Part-time,63.2,5.0,42.7,1
+B140,Hybrid,Not employed,73.1,8.7,46.0,1
+B141,Hybrid,Full-time,47.7,5.7,34.5,0
+B142,Hybrid,Not employed,58.9,5.3,41.7,0
+B143,Face-to-face,Not employed,51.2,4.7,36.6,0
+B144,Hybrid,Part-time,55.5,4.6,44.3,1
+B145,Online,Not employed,61.8,6.9,44.1,0
+B146,Face-to-face,Full-time,70.9,2.9,44.3,0
+B147,Face-to-face,Part-time,63.2,6.7,47.6,1
+B148,Hybrid,Not employed,58.5,7.9,44.5,1
+B149,Hybrid,Part-time,64.6,3.5,46.0,1
+B150,Hybrid,Not employed,64.9,9.4,31.5,1
+B151,Face-to-face,Full-time,69.9,6.6,46.0,1
+B152,Hybrid,Not employed,61.0,7.9,37.2,1
+B153,Online,Not employed,64.0,5.7,47.6,1
+B154,Online,Not employed,53.8,5.0,37.7,0
+B155,Face-to-face,Part-time,77.3,6.8,38.0,0
+B156,Online,Not employed,58.2,10.3,49.2,1
+B157,Hybrid,Not employed,58.6,5.6,42.1,1
+B158,Face-to-face,Not employed,73.2,7.5,43.5,1
+B159,Hybrid,Not employed,59.5,4.8,32.9,1
+B160,Hybrid,Not employed,70.2,8.1,43.9,1
+B161,Face-to-face,Full-time,59.0,8.9,41.2,0
+B162,Face-to-face,Not employed,59.3,4.7,38.4,1
+B163,Hybrid,Full-time,66.2,7.0,45.4,1
+B164,Face-to-face,Not employed,73.4,3.4,49.0,0
+B165,Hybrid,Part-time,58.5,4.8,40.3,0
+B166,Face-to-face,Not employed,61.8,7.3,44.0,0
+B167,Face-to-face,Not employed,73.3,8.7,41.8,0
+B168,Online,Not employed,60.9,10.9,47.1,1
+B169,Hybrid,Part-time,61.5,6.1,34.4,0
+B170,Hybrid,Part-time,71.3,8.5,49.3,1
+B171,Face-to-face,Part-time,55.9,4.5,42.8,0
+B172,Online,Part-time,69.2,10.4,55.0,1
+B173,Online,Full-time,68.4,5.3,45.5,0
+B174,Face-to-face,Not employed,64.8,8.6,47.0,1
+B175,Hybrid,Part-time,64.9,9.5,39.4,1
+B176,Online,Full-time,65.5,2.7,45.3,0
+B177,Face-to-face,Part-time,57.6,3.3,40.9,0
+B178,Face-to-face,Part-time,73.1,8.5,44.8,1
+B179,Online,Not employed,71.0,5.3,50.0,0
+B180,Hybrid,Part-time,72.2,9.8,45.2,1
+B181,Face-to-face,Part-time,71.4,4.6,43.2,1
+B182,Online,Part-time,72.4,3.3,33.9,0
+B183,Hybrid,Full-time,83.7,4.3,34.8,1
+B184,Online,Not employed,70.5,6.3,48.3,0
+B185,Hybrid,Not employed,74.2,8.7,36.7,1
+B186,Online,Full-time,68.1,4.0,43.8,0
+B187,Online,Part-time,49.7,3.5,40.0,0
+B188,Online,Not employed,54.6,7.2,49.9,0
+B189,Face-to-face,Part-time,76.1,11.3,42.9,1
+B190,Hybrid,Part-time,57.9,5.8,32.1,0
+B191,Hybrid,Full-time,71.5,6.2,50.0,1
+B192,Face-to-face,Part-time,92.0,9.5,54.4,0
+B193,Face-to-face,Part-time,72.5,5.6,49.7,0
+B194,Hybrid,Part-time,56.2,5.3,35.9,1
+B195,Face-to-face,Not employed,62.0,7.2,40.7,1
+B196,Hybrid,Part-time,68.8,7.8,45.7,0
+B197,Hybrid,Not employed,35.0,1.0,34.1,0
+B198,Face-to-face,Full-time,65.3,6.0,42.8,1
+B199,Face-to-face,Not employed,89.1,8.2,50.2,1
+B200,Hybrid,Not employed,71.2,5.4,55.0,0
+B201,Hybrid,Part-time,61.0,5.6,47.5,1
+B202,Face-to-face,Not employed,74.3,12.0,42.3,0
+B203,Online,Not employed,68.4,5.4,42.8,0
+B204,Face-to-face,Not employed,73.3,10.0,47.8,1
+B205,Hybrid,Full-time,58.5,1.2,46.1,0
+B206,Face-to-face,Full-time,51.0,2.7,30.0,0
+B207,Hybrid,Not employed,70.7,9.1,51.2,1
+B208,Face-to-face,Not employed,76.8,10.8,52.2,1
+B209,Online,Not employed,67.9,9.5,49.1,1
+B210,Face-to-face,Not employed,83.1,8.4,53.4,1
+B211,Online,Not employed,76.4,10.7,52.7,1
+B212,Face-to-face,Part-time,70.7,5.6,40.7,1
+B213,Online,Not employed,70.6,12.2,50.1,0
+B214,Face-to-face,Not employed,69.3,6.0,38.2,0
+B215,Face-to-face,Not employed,58.4,8.0,48.1,1
+B216,Hybrid,Full-time,68.2,4.1,47.3,1
+B217,Face-to-face,Part-time,84.4,5.6,51.3,1
+B218,Online,Not employed,74.8,8.7,48.8,1
+B219,Hybrid,Part-time,59.9,3.2,45.8,1
+B220,Hybrid,Part-time,61.1,4.4,40.9,1
+B221,Hybrid,Part-time,60.1,5.4,45.0,0
+B222,Hybrid,Not employed,60.4,3.3,40.5,1
+B223,Online,Part-time,60.4,6.6,46.8,0
+B224,Online,Part-time,64.5,6.4,45.6,0
+B225,Hybrid,Part-time,68.7,5.6,39.1,1
+B226,Hybrid,Part-time,50.1,4.7,32.1,0
+B227,Face-to-face,Not employed,68.6,11.1,45.5,1
+B228,Online,Not employed,51.1,8.2,50.3,0
+B229,Face-to-face,Full-time,75.9,7.1,51.1,1
+B230,Hybrid,Not employed,88.2,10.7,39.1,1
+B231,Face-to-face,Not employed,56.0,6.0,36.1,0
+B232,Face-to-face,Part-time,63.2,4.8,39.7,0
+B233,Face-to-face,Not employed,51.8,7.3,33.0,1
+B234,Hybrid,Part-time,63.9,2.4,38.5,1
+B235,Online,Part-time,74.8,7.4,48.7,1
+B236,Hybrid,Full-time,70.7,8.5,36.3,1
+B237,Online,Not employed,51.7,7.0,53.2,1
+B238,Face-to-face,Not employed,74.5,3.7,40.5,1
+B239,Online,Not employed,59.3,4.6,42.7,0
+B240,Online,Not employed,69.3,8.4,49.4,1
+B241,Face-to-face,Full-time,56.2,7.3,36.9,0
+B242,Hybrid,Full-time,75.5,1.0,34.7,0
+B243,Face-to-face,Part-time,65.1,5.0,46.1,0
+B244,Online,Full-time,65.6,6.3,50.0,1
+B245,Online,Part-time,67.6,6.4,36.3,0
+B246,Hybrid,Part-time,70.0,4.2,39.3,0
+B247,Hybrid,Part-time,76.8,8.4,43.4,1
+B248,Hybrid,Part-time,69.8,3.6,39.6,1
+B249,Face-to-face,Not employed,65.9,5.7,45.4,0
+B250,Online,Not employed,65.8,4.3,38.3,0
+B251,Hybrid,Not employed,66.9,10.3,44.3,1
+B252,Online,Not employed,57.5,8.9,41.7,0
+B253,Face-to-face,Part-time,74.7,8.1,50.3,1
+B254,Online,Not employed,79.4,6.1,34.8,0
+B255,Face-to-face,Not employed,82.9,8.4,44.2,1
+B256,Online,Not employed,60.8,6.2,47.1,0
+B257,Hybrid,Part-time,78.1,9.5,47.2,1
+B258,Hybrid,Full-time,71.1,5.8,42.8,0
+B259,Face-to-face,Not employed,68.3,2.9,39.7,1
+B260,Hybrid,Full-time,66.7,5.5,41.2,1
+B261,Face-to-face,Part-time,59.5,7.2,46.5,1
+B262,Hybrid,Part-time,75.7,9.2,41.3,1
+B263,Online,Part-time,68.5,7.0,35.9,0
+B264,Online,Not employed,56.0,6.5,42.5,0
+B265,Hybrid,Not employed,50.6,8.7,40.5,1
+B266,Face-to-face,Full-time,80.4,2.5,44.5,0
+B267,Hybrid,Not employed,64.6,7.8,42.4,1
+B268,Online,Not employed,74.4,8.6,44.2,1
+B269,Face-to-face,Not employed,67.5,9.4,50.8,0
+B270,Face-to-face,Part-time,64.2,9.4,31.7,1
+B271,Online,Not employed,77.5,8.9,49.4,0
+B272,Hybrid,Part-time,67.6,3.5,35.9,0
+B273,Online,Not employed,55.0,5.0,45.0,1
+B274,Face-to-face,Full-time,57.6,7.3,43.6,0
+B275,Hybrid,Full-time,73.4,5.5,49.1,0
+B276,Hybrid,Not employed,77.6,10.2,42.4,0
+B277,Hybrid,Not employed,63.5,5.9,36.0,0
+B278,Hybrid,Not employed,66.9,7.8,38.5,0
+B279,Face-to-face,Not employed,57.5,6.9,42.2,1
+B280,Online,Full-time,74.3,5.2,39.4,0
+B281,Face-to-face,Not employed,57.9,6.9,38.2,1
+B282,Face-to-face,Full-time,72.3,4.0,39.5,0
+B283,Online,Not employed,88.6,10.6,48.6,1
+B284,Online,Not employed,75.6,8.2,55.0,1
+B285,Face-to-face,Not employed,56.5,5.7,35.7,1
+B286,Online,Part-time,57.9,7.7,45.4,1
+B287,Face-to-face,Part-time,65.9,3.4,45.2,0
+B288,Face-to-face,Part-time,66.8,7.0,35.0,0
+B289,Online,Part-time,78.4,10.1,42.8,0
+B290,Hybrid,Full-time,56.7,5.1,45.0,0
+B291,Online,Full-time,62.9,8.7,44.6,0
+B292,Online,Part-time,50.3,6.1,43.2,0
+B293,Face-to-face,Not employed,72.4,12.0,53.0,0
+B294,Hybrid,Part-time,66.2,8.7,43.1,1
+B295,Hybrid,Part-time,86.7,8.7,44.2,0
+B296,Hybrid,Not employed,84.9,6.9,47.6,0
+B297,Face-to-face,Not employed,61.5,8.5,49.1,0
+B298,Online,Full-time,54.1,3.1,35.1,1
+B299,Face-to-face,Full-time,64.8,5.0,40.2,0
+B300,Online,Part-time,78.0,12.0,37.1,1
+B301,Hybrid,Part-time,72.0,7.0,45.9,0
+B302,Hybrid,Part-time,61.1,8.4,44.3,1
+B303,Hybrid,Part-time,74.6,6.8,41.1,1
+B304,Face-to-face,Part-time,72.1,3.8,41.0,0
+B305,Face-to-face,Part-time,66.0,6.8,51.1,1
+B306,Hybrid,Not employed,74.0,9.2,39.3,0
+B307,Hybrid,Not employed,67.3,9.1,40.4,1
+B308,Face-to-face,Full-time,70.5,1.0,47.1,0
+B309,Hybrid,Full-time,68.2,7.2,40.6,1
+B310,Online,Full-time,60.6,7.0,42.4,0
+B311,Hybrid,Not employed,89.4,13.1,53.5,1
+B312,Online,Not employed,63.5,5.6,53.3,1
+B313,Online,Part-time,78.2,5.0,39.9,0
+B314,Hybrid,Not employed,75.0,3.9,49.6,1
+B315,Face-to-face,Full-time,71.4,8.3,38.4,1
+B316,Online,Part-time,59.6,6.7,38.8,1
+B317,Hybrid,Not employed,76.5,8.1,46.6,1
+B318,Face-to-face,Not employed,63.0,4.0,42.7,0
+B319,Hybrid,Not employed,67.5,7.5,37.5,1
+B320,Face-to-face,Not employed,53.9,7.0,45.9,1
+B321,Hybrid,Full-time,77.4,5.2,44.7,1
+B322,Hybrid,Not employed,52.4,9.1,38.5,1
+B323,Hybrid,Full-time,64.6,3.5,38.0,1
+B324,Hybrid,Not employed,70.1,4.4,41.7,1
+B325,Online,Part-time,59.5,3.7,44.9,1
+B326,Face-to-face,Part-time,63.6,6.5,33.0,0
+B327,Face-to-face,Full-time,67.7,2.6,44.4,0
+B328,Face-to-face,Not employed,65.9,5.8,37.1,1
+B329,Hybrid,Part-time,69.1,8.2,50.9,0
+B330,Hybrid,Not employed,55.0,5.8,46.5,0
+B331,Hybrid,Full-time,72.7,2.0,47.3,0
+B332,Face-to-face,Not employed,88.3,10.9,55.0,1
+B333,Face-to-face,Part-time,55.3,3.3,35.7,0
+B334,Online,Not employed,73.9,3.4,46.5,1
+B335,Hybrid,Full-time,71.8,1.0,41.2,0
+B336,Face-to-face,Part-time,74.2,3.6,33.1,1
+B337,Hybrid,Not employed,83.9,8.7,51.8,1
+B338,Online,Part-time,44.8,3.5,36.1,0
+B339,Online,Not employed,52.4,5.3,38.2,0
+B340,Face-to-face,Part-time,77.6,6.8,49.3,1
+B341,Hybrid,Part-time,51.8,7.7,49.7,0
+B342,Hybrid,Not employed,73.7,11.0,42.4,1
+B343,Face-to-face,Not employed,65.4,6.2,40.4,1
+B344,Online,Not employed,63.8,10.7,35.9,0
+B345,Online,Full-time,39.8,4.7,40.4,0
+B346,Hybrid,Full-time,59.9,3.1,46.7,0
+B347,Hybrid,Full-time,75.5,7.2,49.1,1
+B348,Face-to-face,Not employed,53.9,7.4,36.8,0
+B349,Hybrid,Not employed,55.8,8.7,40.8,1
+B350,Hybrid,Full-time,78.8,7.1,45.0,1
+B351,Hybrid,Not employed,63.2,7.0,48.1,1
+B352,Face-to-face,Part-time,74.8,6.6,39.9,1
+B353,Online,Part-time,65.5,7.6,37.8,0
+B354,Face-to-face,Part-time,86.7,7.6,55.0,1
+B355,Online,Full-time,66.4,2.9,44.3,1
+B356,Face-to-face,Full-time,63.1,5.6,43.3,1
+B357,Face-to-face,Part-time,79.1,7.1,48.5,1
+B358,Online,Part-time,54.0,4.3,37.4,1
+B359,Online,Part-time,68.3,7.4,50.5,1
+B360,Hybrid,Not employed,66.3,5.7,50.5,1
+B361,Face-to-face,Part-time,69.5,8.5,44.3,1
+B362,Hybrid,Part-time,76.0,7.6,42.6,1
+B363,Online,Full-time,63.9,2.5,34.0,1
+B364,Hybrid,Not employed,47.0,12.0,37.1,1
+B365,Online,Part-time,73.9,7.0,43.3,0
+B366,Online,Part-time,77.7,8.9,46.3,1
+B367,Online,Full-time,68.0,5.3,47.6,1
+B368,Hybrid,Part-time,60.1,6.8,41.1,1
+B369,Hybrid,Full-time,70.1,3.7,45.8,1
+B370,Hybrid,Not employed,68.6,10.7,38.3,1
+B371,Hybrid,Full-time,64.0,8.0,45.4,1
+B372,Hybrid,Not employed,61.4,8.1,44.8,1
+B373,Face-to-face,Not employed,67.5,6.3,46.0,1
+B374,Face-to-face,Full-time,51.9,2.0,36.2,0
+B375,Face-to-face,Full-time,66.0,7.7,44.8,0
+B376,Face-to-face,Full-time,49.9,4.3,39.0,0
+B377,Hybrid,Not employed,63.4,2.9,30.8,1
+B378,Online,Part-time,70.3,8.2,40.8,1
+B379,Online,Not employed,75.5,6.7,42.6,0
+B380,Online,Not employed,56.0,13.7,45.4,1
+B381,Online,Not employed,60.7,2.2,25.5,1
+B382,Face-to-face,Full-time,68.0,4.8,42.2,0
+B383,Online,Full-time,81.7,2.9,45.4,0
+B384,Online,Part-time,63.3,7.9,41.4,1
+B385,Online,Not employed,46.0,7.6,27.7,1
+B386,Face-to-face,Part-time,68.5,4.7,48.4,1
+B387,Face-to-face,Not employed,45.4,7.2,41.9,0
+B388,Face-to-face,Not employed,60.3,6.8,44.1,0
+B389,Hybrid,Part-time,54.2,7.1,47.7,1
+B390,Hybrid,Part-time,60.9,3.4,46.7,0
+B391,Face-to-face,Part-time,58.1,7.7,28.2,1
+B392,Face-to-face,Part-time,83.1,7.1,47.7,1
+B393,Hybrid,Not employed,58.3,5.8,52.5,0
+B394,Hybrid,Full-time,78.7,6.0,52.6,0
+B395,Hybrid,Not employed,79.7,7.2,49.2,1
+B396,Hybrid,Not employed,73.1,11.8,50.6,1
+B397,Hybrid,Part-time,56.3,10.1,47.9,1
+B398,Hybrid,Not employed,72.3,8.0,51.2,1
+B399,Hybrid,Full-time,76.2,1.7,41.4,1
+B400,Face-to-face,Part-time,53.1,4.1,41.2,0
+B401,Face-to-face,Not employed,73.8,5.7,43.7,1
+B402,Hybrid,Not employed,67.0,12.2,44.5,1
+B403,Hybrid,Part-time,59.2,9.7,47.1,1
+B404,Face-to-face,Part-time,86.3,9.5,46.4,1
+B405,Face-to-face,Part-time,59.1,3.9,30.3,0
+B406,Face-to-face,Part-time,74.9,5.2,46.3,1
+B407,Hybrid,Not employed,53.4,7.2,40.2,0
+B408,Hybrid,Not employed,65.8,11.9,40.3,1
+B409,Online,Full-time,58.7,5.7,42.6,0
+B410,Hybrid,Not employed,56.7,6.4,43.7,1
+B411,Online,Part-time,67.7,8.3,45.9,1
+B412,Face-to-face,Not employed,60.3,8.7,41.2,1
+B413,Face-to-face,Full-time,78.6,3.8,47.4,1
+B414,Hybrid,Part-time,58.2,7.3,41.4,0
+B415,Face-to-face,Full-time,76.6,10.0,39.9,0
+B416,Face-to-face,Part-time,58.0,5.3,41.0,0
+B417,Face-to-face,Part-time,62.9,11.5,52.4,1
+B418,Hybrid,Full-time,64.6,4.8,43.1,1
+B419,Hybrid,Part-time,69.6,6.6,48.6,1
+B420,Face-to-face,Not employed,72.2,9.7,44.7,1
+B421,Online,Part-time,73.1,7.3,45.3,0
+B422,Online,Not employed,55.2,5.3,39.6,0
+B423,Face-to-face,Full-time,72.0,3.9,43.7,1
+B424,Face-to-face,Not employed,81.1,8.4,55.0,1
+B425,Hybrid,Full-time,81.1,4.4,49.0,1
+B426,Face-to-face,Part-time,53.0,7.0,34.5,1
+B427,Face-to-face,Not employed,48.7,5.4,43.2,1
+B428,Face-to-face,Full-time,49.1,2.9,44.7,0
+B429,Hybrid,Not employed,66.2,8.8,47.2,1
+B430,Hybrid,Not employed,54.6,7.6,45.1,1

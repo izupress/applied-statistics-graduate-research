@@ -1,0 +1,13 @@
+concept,python,r,alignment_rule
+ANCOVA reference group,"Treatment(reference='Control')","relevel(..., ref='Control')",Control is the reference category
+Baseline centering,"Baseline - mean(Baseline)","Baseline - mean(Baseline)",Use the analysis-sample mean
+ANCOVA uncertainty,HC3 sandwich covariance,HC3 sandwich covariance,Report identical coefficient scale and 95% interval
+Mixed-model estimation,REML,REML,Use participant random intercept and time slope
+Time coding,numeric 0-based time,numeric 0-based time,Do not recode as a factor
+Logistic event,completed_on_time=1,completed_on_time=1,Model the probability of on-time completion
+Development sample,Site_A and Site_B,Site_A and Site_B,Fit the model only in development sites
+External validation,Site_C,Site_C,Do not refit coefficients in validation
+ROC AUC,midrank Mann-Whitney definition,pROC default direction fixed to event=1,Confirm event orientation before comparison
+Brier score,mean squared probability error,mean squared probability error,Use unrounded probabilities
+Log loss,natural logarithm,natural logarithm,Clip probabilities only at machine precision
+Displayed values,3 decimals,3 decimals,Compare unrounded stored results

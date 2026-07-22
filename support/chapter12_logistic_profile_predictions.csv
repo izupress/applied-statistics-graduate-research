@@ -1,0 +1,7 @@
+prior_score,study_hours,self_efficacy,instructional_format,employment_status,predicted_probability
+60,4,38,Face-to-face,Not employed,0.43089107922927755
+60,8,38,Face-to-face,Not employed,0.6400492020744886
+60,12,38,Face-to-face,Not employed,0.80680343209395
+75,4,38,Face-to-face,Not employed,0.5264446825041995
+75,8,38,Face-to-face,Not employed,0.723056074763378
+75,12,38,Face-to-face,Not employed,0.8597802415991237

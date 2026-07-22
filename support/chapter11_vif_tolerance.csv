@@ -1,0 +1,10 @@
+predictor,vif,tolerance
+"C(instructional_format, Treatment(reference='Face-to-face'))[T.Hybrid]",1.307849415738411,0.7646140205181041
+"C(instructional_format, Treatment(reference='Face-to-face'))[T.Online]",1.6187806764997348,0.6177489109656813
+"C(employment_status, Treatment(reference='Not employed'))[T.Part-time]",1.3838998602987285,0.7225956362074782
+"C(employment_status, Treatment(reference='Not employed'))[T.Full-time]",1.8048305123650277,0.5540686469720707
+prior_score,1.3309793489310588,0.7513264580724891
+study_hours,2.537825520523203,0.3940381211840907
+online_engagement,1.9818903923709998,0.5045687712344513
+attendance_rate,1.3587882876901172,0.73594982313246
+academic_self_efficacy,1.313578576633937,0.7612791634913182
