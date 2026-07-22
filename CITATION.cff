@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this companion repository, please cite the book and this repository."
+title: "Lisansustu Arastirmalar Icin Uygulamali Istatistik: Companion Repository"
+authors:
+  - family-names: "Guney"
+    given-names: "Ibrahim"
+repository-code: "https://github.com/izupress/applied-statistics-graduate-research"
+type: software
+license: MIT
+version: "0.1.0"
+

@@ -1,0 +1,4 @@
+risk_level,uses,compliant_uses,disclosure_gaps,confidentiality_violations,prohibited_flags
+High,5,5,0,0,0
+Low,20,19,0,0,0
+Moderate,7,0,2,0,0
