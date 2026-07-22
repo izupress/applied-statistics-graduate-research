@@ -9,7 +9,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 SUPPORT = ROOT / "support"
-MANIFEST = ROOT / "chapter-manifest.csv"
+MANIFEST = ROOT / "C:\Users\ibrahim.guney\Github\applied-statistics-graduate-research\chapter-manifest.csv"
 REPORT = SUPPORT / "chapter_manifest_report.json"
 
 
