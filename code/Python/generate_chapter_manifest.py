@@ -9,7 +9,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 SUPPORT = ROOT / "support"
-MANIFEST = ROOT / "C:\Users\ibrahim.guney\Github\applied-statistics-graduate-research\chapter-manifest.csv"
+MANIFEST = ROOT / "chapter-manifest.csv"
 REPORT = SUPPORT / "chapter_manifest_report.json"
 
 
@@ -83,7 +83,7 @@ def main() -> int:
         "chapter_count": len(rows),
         "complete_chapters": sum(bool(row["complete"]) for row in rows),
         "missing_chapters": [row["chapter"] for row in rows if not row["complete"]],
-        "manifest": MANIFEST.as_posix(),
+        "manifest": MANIFEST.relative_to(ROOT).as_posix(),
     }
     REPORT.write_text(json.dumps(summary, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(json.dumps(summary, ensure_ascii=False, indent=2))
