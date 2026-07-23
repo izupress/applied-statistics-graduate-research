@@ -18,6 +18,7 @@ EXCLUDED = {
     "audit_publication_package.py",
     "run_reproducibility_audit.py",
     "statistical_metrics.py",
+    "run_r_reproducibility_audit.py",
 }
 
 

@@ -1,0 +1,31 @@
+C:\Users\ibrah\Github\applied-statistics-graduate-research\code\Python\chapter02_analysis.py:70: MatplotlibDeprecationWarning: The 'labels' parameter of boxplot() has been renamed 'tick_labels' since Matplotlib 3.9; support for the old name will be dropped in 3.11.
+  ax.boxplot(groups, labels=labels)
+                      missing_n  missing_pct
+student_id                    0          0.0
+instructional_format          0          0.0
+exam_score                    6          5.0
+study_hours                  10          8.3
+self_efficacy                 8          6.7
+completion_status             4          3.3
+employment_status             0          0.0
+  instructional_format   n  percent
+0         Face-to-face  50     41.7
+1               Online  40     33.3
+2               Hybrid  30     25.0
+completion_status     Completed  Did not complete  NaN  All
+instructional_format                                       
+Face-to-face                 23                26    1   50
+Hybrid                       13                16    1   30
+Online                       15                23    2   40
+All                          51                65    0  120
+completion_status     Completed  Did not complete  NaN
+instructional_format                                  
+Face-to-face               46.0              52.0  2.0
+Hybrid                     43.3              53.3  3.3
+Online                     37.5              57.5  5.0
+  instructional_format  n_exam  mean_exam  ...  q3_exam  min_exam  max_exam
+0         Face-to-face      48       81.6  ...     85.1      70.8      95.9
+1               Hybrid      26       86.9  ...     91.6      70.0     100.0
+2               Online      40       79.1  ...     84.2      66.9      91.8
+
+[3 rows x 9 columns]
