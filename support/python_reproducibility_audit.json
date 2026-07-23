@@ -1,6 +1,6 @@
 {
-  "script_count": 26,
-  "passed": 26,
+  "script_count": 27,
+  "passed": 27,
   "failed": 0,
   "timeout": 0,
   "results": [
@@ -8,182 +8,189 @@
       "script": "code/Python/chapter02_analysis.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 5.202,
+      "duration_seconds": 0.766,
       "log": "support/reproducibility_logs/chapter02_analysis.log"
     },
     {
       "script": "code/Python/chapter03_cleaning.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 0.273,
+      "duration_seconds": 0.336,
       "log": "support/reproducibility_logs/chapter03_cleaning.log"
     },
     {
       "script": "code/Python/chapter04_analysis.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 4.378,
+      "duration_seconds": 4.915,
       "log": "support/reproducibility_logs/chapter04_analysis.log"
     },
     {
       "script": "code/Python/chapter05_analysis.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 1.464,
+      "duration_seconds": 1.73,
       "log": "support/reproducibility_logs/chapter05_analysis.log"
     },
     {
       "script": "code/Python/chapter06_planning.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 35.361,
+      "duration_seconds": 49.994,
       "log": "support/reproducibility_logs/chapter06_planning.log"
     },
     {
       "script": "code/Python/chapter07_analysis.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 1.159,
+      "duration_seconds": 1.765,
       "log": "support/reproducibility_logs/chapter07_analysis.log"
     },
     {
       "script": "code/Python/chapter08_analysis.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 1.422,
+      "duration_seconds": 2.576,
       "log": "support/reproducibility_logs/chapter08_analysis.log"
     },
     {
       "script": "code/Python/chapter09_analysis.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 1.46,
+      "duration_seconds": 1.516,
       "log": "support/reproducibility_logs/chapter09_analysis.log"
     },
     {
       "script": "code/Python/chapter10_analysis.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 1.368,
+      "duration_seconds": 2.269,
       "log": "support/reproducibility_logs/chapter10_analysis.log"
     },
     {
       "script": "code/Python/chapter11_analysis.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 1.693,
+      "duration_seconds": 2.009,
       "log": "support/reproducibility_logs/chapter11_analysis.log"
     },
     {
       "script": "code/Python/chapter12_analysis.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 1.532,
+      "duration_seconds": 1.851,
       "log": "support/reproducibility_logs/chapter12_analysis.log"
     },
     {
       "script": "code/Python/chapter13_analysis.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 1.678,
+      "duration_seconds": 2.003,
       "log": "support/reproducibility_logs/chapter13_analysis.log"
     },
     {
       "script": "code/Python/chapter14_analysis.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 1.1,
+      "duration_seconds": 2.25,
       "log": "support/reproducibility_logs/chapter14_analysis.log"
     },
     {
       "script": "code/Python/chapter15_analysis.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 0.781,
+      "duration_seconds": 1.102,
       "log": "support/reproducibility_logs/chapter15_analysis.log"
     },
     {
       "script": "code/Python/chapter15_figures.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 0.677,
+      "duration_seconds": 1.186,
       "log": "support/reproducibility_logs/chapter15_figures.log"
     },
     {
       "script": "code/Python/chapter16_analysis.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 1.164,
+      "duration_seconds": 1.358,
       "log": "support/reproducibility_logs/chapter16_analysis.log"
     },
     {
       "script": "code/Python/chapter17_analysis.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 1.117,
+      "duration_seconds": 1.765,
       "log": "support/reproducibility_logs/chapter17_analysis.log"
     },
     {
       "script": "code/Python/chapter18_analysis.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 0.831,
+      "duration_seconds": 1.053,
       "log": "support/reproducibility_logs/chapter18_analysis.log"
     },
     {
       "script": "code/Python/chapter19_analysis.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 1.949,
+      "duration_seconds": 4.855,
       "log": "support/reproducibility_logs/chapter19_analysis.log"
     },
     {
       "script": "code/Python/chapter20_case_studies.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 1.334,
+      "duration_seconds": 1.73,
       "log": "support/reproducibility_logs/chapter20_case_studies.log"
     },
     {
       "script": "code/Python/chapter21_audit_workflows.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 0.309,
+      "duration_seconds": 0.489,
       "log": "support/reproducibility_logs/chapter21_audit_workflows.log"
     },
     {
       "script": "code/Python/compare_spss_python.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 0.343,
+      "duration_seconds": 0.491,
       "log": "support/reproducibility_logs/compare_spss_python.log"
     },
     {
       "script": "code/Python/generate_chapter19_data.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 0.294,
+      "duration_seconds": 0.491,
       "log": "support/reproducibility_logs/generate_chapter19_data.log"
     },
     {
       "script": "code/Python/generate_chapter20_manifest.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 0.07,
+      "duration_seconds": 0.072,
       "log": "support/reproducibility_logs/generate_chapter20_manifest.log"
+    },
+    {
+      "script": "code/Python/generate_chapter_manifest.py",
+      "status": "passed",
+      "return_code": 0,
+      "duration_seconds": 0.043,
+      "log": "support/reproducibility_logs/generate_chapter_manifest.log"
     },
     {
       "script": "code/Python/generate_figures.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 3.163,
+      "duration_seconds": 5.183,
       "log": "support/reproducibility_logs/generate_figures.log"
     },
     {
       "script": "code/Python/generate_spss_companions.py",
       "status": "passed",
       "return_code": 0,
-      "duration_seconds": 0.297,
+      "duration_seconds": 0.492,
       "log": "support/reproducibility_logs/generate_spss_companions.log"
     }
   ]

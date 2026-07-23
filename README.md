@@ -34,6 +34,14 @@ SPSS dosyaları IBM SPSS Statistics içinde açılarak **Run > All** komutuyla
 
 ## Bölüm Dizini
 
+Kitap bölümleri ile veri, kod, beklenen çıktı ve şekil dosyaları arasındaki
+güncel eşleme kök dizindeki `chapter-manifest.csv` dosyasında tutulur.
+Manifestoyu yeniden üretmek için:
+
+```bash
+python code/Python/generate_chapter_manifest.py
+```
+
 | Bölüm | Konu | Python | R | SPSS/AMOS |
 |---:|---|:---:|:---:|:---:|
 | 2 | Betimsel istatistikler | ✓ | ✓ | ✓ |
@@ -59,9 +67,28 @@ SPSS dosyaları IBM SPSS Statistics içinde açılarak **Run > All** komutuyla
 
 ## Yeniden Üretilebilirlik Denetimi
 
+Yerel koordinasyon denetimi için depo kökünde aşağıdaki komutları kullanın:
+
+```bash
+make manifest
+make audit
+```
+
+`main` dalına gönderilen her değişiklikte ve her pull request'te aynı
+denetimler `.github/workflows/reproducibility.yml` üzerinden otomatik çalışır.
+
 Tüm Python iş akışlarını çalıştırmak için:
 
     make audit
+
+Tüm R iş akışlarını çalıştırmak için:
+
+    make r-audit
+
+R denetimi sonucu **support/r_reproducibility_audit.json** dosyasına,
+ayrıntılı günlükler ise **support/r_reproducibility_logs/** klasörüne yazılır.
+GitHub üzerindeki **R reproducibility audit** iş akışı aynı denetimi her
+push ve pull request için otomatik çalıştırır.
 
 Denetim sonucu **support/python_reproducibility_audit.json** dosyasına,
 ayrıntılı günlükler ise yerel olarak **support/reproducibility_logs/**
@@ -93,6 +120,10 @@ setinin anlamı ve analiz bağlamı ilgili kitap bölümünde açıklanmaktadır
 **Cite this repository** özelliği bu dosyayı kullanır.
 
 ## Sürüm Eşleştirme
+
+Kitap ve depo yayın sırası **RELEASE_WORKFLOW.md** dosyasında tanımlanmıştır.
+Geliştirme sürümü 0.1.0, planlanan ilk basım etiketi ise
+v1.0.0-book-2026 biçimindedir.
 
 Kitabın basılı baskısıyla kullanılan kod ve verilerin değişmemesi için
 yayın sürümleri Git etiketleriyle sabitlenecektir. Kitapta belirtilen sürüm

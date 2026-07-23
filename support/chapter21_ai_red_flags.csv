@@ -1,0 +1,13 @@
+use_id,project_id,task,risk_level,prohibited_flag
+AI005,RP02,Uploading a confidential manuscript,High,0
+AI011,RP03,Uploading a confidential manuscript,High,0
+AI012,RP03,Uploading identifiable participant transcripts,High,0
+AI025,RP07,Uploading a confidential manuscript,High,0
+AI031,RP08,Uploading identifiable participant transcripts,High,0
+AI002,RP01,Summarising an author-provided abstract,Moderate,0
+AI003,RP01,Generating statistical code,Moderate,0
+AI007,RP02,Interpreting a model without human verification,Moderate,0
+AI013,RP04,Generating references without database verification,Moderate,0
+AI014,RP04,Interpreting a model without human verification,Moderate,0
+AI015,RP04,Summarising an author-provided abstract,Moderate,0
+AI028,RP07,Summarising an author-provided abstract,Moderate,0

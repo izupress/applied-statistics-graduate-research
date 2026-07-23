@@ -1,0 +1,45 @@
+Package: appliedStatisticsGraduateResearch
+Type: Project
+Title: Companion Analyses for Applied Statistics in Graduate Research
+Version: 0.1.0
+Authors@R: person("İbrahim", "Güney",
+    email = "ibrahimguney@users.noreply.github.com",
+    role = c("aut", "cre"))
+Description: Reproducible R analyses accompanying the graduate-level
+    applied statistics textbook.
+License: MIT
+Encoding: UTF-8
+Imports:
+    GPArotation,
+    MASS,
+    WRS2,
+    afex,
+    boot,
+    broom,
+    car,
+    coin,
+    dplyr,
+    effectsize,
+    emmeans,
+    ggplot2,
+    irr,
+    lavaan,
+    lme4,
+    lmerTest,
+    lmtest,
+    marginaleffects,
+    mblm,
+    mice,
+    pROC,
+    performance,
+    pscl,
+    psych,
+    quantreg,
+    readr,
+    rsample,
+    rstatix,
+    sandwich,
+    semTools,
+    stringr,
+    tidyr,
+    yardstick

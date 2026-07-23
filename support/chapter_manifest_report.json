@@ -1,6 +1,10 @@
 {
-  "chapter_count": 20,
-  "complete_chapters": 20,
-  "missing_chapters": [],
-  "manifest": "chapter-manifest.csv"
+  "chapter_count": 21,
+  "ready_count": 21,
+  "incomplete_count": 0,
+  "chapters_without_spss_or_amos": [
+    "chapter01",
+    "chapter20"
+  ],
+  "incomplete_chapters": []
 }

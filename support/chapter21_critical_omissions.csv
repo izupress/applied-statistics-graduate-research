@@ -1,0 +1,26 @@
+project_id,study_design,critical_omission_count,audit_status
+RP04,Randomised trial,4,Major revision required
+RP09,Observational study,4,Major revision required
+RP17,Systematic review,4,Major revision required
+RP27,Qualitative study,4,Major revision required
+RP08,Observational study,3,Major revision required
+RP19,Prediction model,3,Major revision required
+RP26,Qualitative study,3,Major revision required
+RP11,Observational study,3,Major revision required
+RP32,Factor analysis or SEM,3,Major revision required
+RP34,Factor analysis or SEM,3,Major revision required
+RP31,Factor analysis or SEM,2,Substantial revision required
+RP21,Prediction model,2,Minor revision required
+RP20,Prediction model,2,Substantial revision required
+RP15,Systematic review,2,Substantial revision required
+RP30,Qualitative study,2,Substantial revision required
+RP18,Systematic review,2,Substantial revision required
+RP10,Observational study,1,Minor revision required
+RP14,Systematic review,1,Submission-ready after final verification
+RP13,Systematic review,1,Minor revision required
+RP12,Observational study,1,Substantial revision required
+RP22,Prediction model,1,Substantial revision required
+RP24,Prediction model,1,Substantial revision required
+RP23,Prediction model,1,Substantial revision required
+RP25,Qualitative study,1,Substantial revision required
+RP33,Factor analysis or SEM,1,Minor revision required

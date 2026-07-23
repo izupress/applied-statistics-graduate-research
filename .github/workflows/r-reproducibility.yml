@@ -1,0 +1,51 @@
+name: R reproducibility audit
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  r-audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      R_KEEP_PKG_SOURCE: yes
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: release
+          use-public-rspm: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install R dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          cache-version: 1
+          dependencies: '"hard"'
+
+      - name: Run R reproducibility audit
+        run: python code/Python/run_r_reproducibility_audit.py --timeout 600
+
+      - name: Upload R audit report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: r-reproducibility-audit
+          path: |
+            support/r_reproducibility_audit.json
+            support/r_reproducibility_logs/
+          if-no-files-found: warn

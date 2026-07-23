@@ -10,6 +10,7 @@ import pandas as pd
 ROOT = Path(__file__).resolve().parents[2]
 DATA = ROOT / "data"
 SUPPORT = ROOT / "support"
+SUPPORT.mkdir(parents=True, exist_ok=True)
 
 reporting = pd.read_csv(
     DATA / "chapter21_reporting_audit.csv"
@@ -23,44 +24,36 @@ ai_log = pd.read_csv(
     DATA / "chapter21_ai_use_log.csv"
 )
 
-print("\nREPORTING AUDIT")
-print(
-    reporting.groupby(
-        "study_design"
-    )[
+reporting_summary = (
+    reporting.groupby("study_design", as_index=False)[
         [
             "reporting_score_percent",
             "open_science_score_percent",
             "ethics_transparency_score_percent",
             "overall_score_percent",
         ]
-    ].mean().round(1)
+    ]
+    .mean()
+    .round(1)
 )
 
-print("\nCRITICAL REPORTING OMISSIONS")
-print(
+critical_omissions = (
     reporting.loc[
-        reporting[
-            "critical_omission_count"
-        ]
-        > 0,
+        reporting["critical_omission_count"] > 0,
         [
             "project_id",
             "study_design",
             "critical_omission_count",
             "audit_status",
         ],
-    ].sort_values(
-        "critical_omission_count",
-        ascending=False,
-    )
+    ]
+    .sort_values("critical_omission_count", ascending=False)
+    .reset_index(drop=True)
 )
 
-print("\nOPEN-SCIENCE ACCESS DECISIONS")
-print(
-    assets.groupby(
-        "recommended_access_plan"
-    ).agg(
+access_decisions = (
+    assets.groupby("recommended_access_plan", as_index=False)
+    .agg(
         assets=(
             "asset_id",
             "size",
@@ -69,14 +62,13 @@ print(
             "fair_readiness_percent",
             "mean",
         ),
-    ).round(1)
+    )
+    .round(1)
 )
 
-print("\nAI RISK SUMMARY")
-print(
-    ai_log.groupby(
-        "risk_level"
-    ).agg(
+ai_risk_summary = (
+    ai_log.groupby("risk_level", as_index=False)
+    .agg(
         uses=(
             "use_id",
             "size",
@@ -96,13 +88,9 @@ print(
     )
 )
 
-print("\nAI RED FLAGS")
-print(
+ai_red_flags = (
     ai_log.loc[
-        ai_log[
-            "risk_level"
-        ]
-        != "Low",
+        ai_log["risk_level"] != "Low",
         [
             "use_id",
             "project_id",
@@ -111,55 +99,27 @@ print(
             "prohibited_flag",
         ],
     ]
+    .sort_values(["risk_level", "use_id"])
+    .reset_index(drop=True)
 )
 
-SUPPORT.mkdir(parents=True, exist_ok=True)
+outputs = {
+    "chapter21_reporting_summary.csv": reporting_summary,
+    "chapter21_critical_omissions.csv": critical_omissions,
+    "chapter21_open_science_access.csv": access_decisions,
+    "chapter21_ai_risk_summary.csv": ai_risk_summary,
+    "chapter21_ai_red_flags.csv": ai_red_flags,
+}
 
-reporting_summary = (
-    reporting.groupby("study_design")[
-        [
-            "reporting_score_percent",
-            "open_science_score_percent",
-            "ethics_transparency_score_percent",
-            "overall_score_percent",
-        ]
-    ]
-    .mean()
-    .round(1)
-    .reset_index()
-)
-reporting_summary.to_csv(
-    SUPPORT / "chapter21_reporting_summary.csv",
-    index=False,
-)
+for filename, frame in outputs.items():
+    frame.to_csv(SUPPORT / filename, index=False)
 
-open_science_summary = (
-    assets.groupby("recommended_access_plan")
-    .agg(
-        assets=("asset_id", "size"),
-        fair_readiness_percent=("fair_readiness_percent", "mean"),
-        aligned_assets=("access_plan_aligned", "sum"),
-    )
-    .round(1)
-    .reset_index()
-)
-open_science_summary.to_csv(
-    SUPPORT / "chapter21_open_science_summary.csv",
-    index=False,
-)
-
-ai_risk_summary = (
-    ai_log.groupby("risk_level")
-    .agg(
-        uses=("use_id", "size"),
-        compliant_uses=("compliant_use", "sum"),
-        disclosure_gaps=("disclosure_gap", "sum"),
-        confidentiality_violations=("confidentiality_violation", "sum"),
-        prohibited_flags=("prohibited_flag", "sum"),
-    )
-    .reset_index()
-)
-ai_risk_summary.to_csv(
-    SUPPORT / "chapter21_ai_risk_summary.csv",
-    index=False,
-)
+for heading, frame in (
+    ("REPORTING AUDIT", reporting_summary),
+    ("CRITICAL REPORTING OMISSIONS", critical_omissions),
+    ("OPEN-SCIENCE ACCESS DECISIONS", access_decisions),
+    ("AI RISK SUMMARY", ai_risk_summary),
+    ("AI RED FLAGS", ai_red_flags),
+):
+    print(f"\n{heading}")
+    print(frame.to_string(index=False))
